@@ -1,17 +1,19 @@
-﻿AIMERK 
-
+﻿MKR
 //空间构引
 a~nem^o
-	A IY IA O U 
+	(&LSP~VWR)
 	KA MI KW KAI KAO
 	一声平 二声杨 三声拐弯 四声降
-	<TIK:TAIK>
-	i yL 照妖镜 图形识别 三棱镜 
-	hf胡夫 之间 剑 金字塔  
-		e E ey eY Ey Anti-Rotate by... 
-　　	e y i
-	NAI
+A.IY.IA.O.U
+
 iIL
+hf
+  //胡夫 之间 剑 金字塔  
+  i yL 照妖镜 图形识别 三棱镜 
+  e E ey eY Ey Anti-Rotate
+  e y i
+  <TIK:TAIK>
+NAI
 
 Wo
 	Rn rn  t d肚子有点顶
@@ -21,7 +23,6 @@ Wo
 	T L S Z S
 	wOcAo woRI
 M
-
 
 空间部分SØV
 
@@ -48,11 +49,11 @@ M
 	//KONSONANT
 	//N.	辅音; 辅音字母(如B、K、D、F等);
 	//ADJ.	(与…)一致的，符合的，相同的，和谐的;
-	riem^hy //rhyme
-		klusters konsonant 
-		konstitute
-		area fono^ph logikal 
-	rim
+	RIEM^HY //RHYME
+		KLUSTERS KONSONANT 
+		KONSTITUTE
+		AREA FONO^PH LOGIKAL 
+	RIM
 象形
 
 

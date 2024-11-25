@@ -1,4 +1,4 @@
-﻿<#VSD~VRSK>
+﻿<#VSD:VRSK>
 SPT
 SAS //C
 	SAP //PYTHON

@@ -1,29 +1,29 @@
-﻿Sybert
-  Singlet:Puskeful.Kounte.OneOnly.Absockly //int[][]
-      Lysoc
-      Karyact:Symbol,Numberic,Charlet
-  Singallor.Spase.Wyresk
-  Separator 
-    Systemed.Space
-    Systemed.Escaped
-  Connector
-  Bracket:Puskeful.Kounte.Dual
-    Systemed.Escaped
-nks
+﻿SYBERT
+  SINGLET:PUSKEFUL.KOUNTE.ONEONLY.ABSOCKLY //INT[][]
+      LYSOC
+      KARYACT:SYMBOL,NUMBERIC,CHARLET
+  SINGALLOR.SPASE.WYRESK
+  SEPARATOR 
+    SYSTEMED.SPACE
+    SYSTEMED.ESCAPED
+  CONNECTOR
+  BRACKET:PUSKEFUL.KOUNTE.DUAL
+    SYSTEMED.ESCAPED
+NKS
 /*
-* String:Thread.Notpad:Left Right 1024 
+* STRING:THREAD.NOTPAD:LEFT RIGHT 1024 
 */
-Systemed:Cybert.Separator
-  Enbreaked:Separator
-    rtn_nd:\r\n
-    rtn_r:\r //010 回车(CR) ，将当前位置移到本行开头
-    rtn_n:\n //012 换行(LF) ，将当前位置移到下一行开头
-  Escaped:SystemOrginated:Separator,Bracket
-    Tabled:\t  
-    Dashed:\\  
-    Quote:\'  
-    Quotes:\" 
+SYSTEMED:CYBERT.SEPARATOR
+  ENBREAKED:SEPARATOR
+    RTN_ND:\R\N
+    RTN_R:\R //010 回车(CR) ，将当前位置移到本行开头
+    RTN_N:\N //012 换行(LF) ，将当前位置移到下一行开头
+  ESCAPED:SYSTEMORGINATED:SEPARATOR,BRACKET
+    TABLED:\T  
+    DASHED:\\  
+    QUOTE:\'  
+    QUOTES:\" 
 
-  //Metrics.Vertical.Array
-  //English
-  Spaced:Separator:" " 
+  //METRICS.VERTICAL.ARRAY
+  //ENGLISH
+  SPACED:SEPARATOR:" " 
