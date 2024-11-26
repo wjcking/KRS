@@ -14,7 +14,7 @@ IRK:ILK
 	~ //DLS BLS^P PLS
 	_ //NSK-TZH_ANG^WA
 
-	$	//SLNS
+	$	//SLS
 	^	//SRT:SKR
 	% //PST.KNT
 		@ //ISNK:NLUS

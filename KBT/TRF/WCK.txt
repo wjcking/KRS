@@ -24,16 +24,16 @@ HBE.HS
 新冠 新疆 4400 上海 2000 铁链女 白纸革命
 
 克轴几
-	缅甸:电信诈骗
-	阿拉善
-		忑(奀)个立 从刀四 腾格尔//TENGELI TENGER4
-		内蒙古煤矿事故
-		土耳其突发7.8级：超4000人 //
-		塔吉克斯坦发生7.2级 喀什、阿图什 
-		阿根廷发生5.1级 //SAN SALVADOR DE JUJUY
-	卡拉钦
-	//HAILNNIK AMAIRIK INDIAN(NA:ARGS)LICK
-	化学火车 脱轨
+缅甸:电信诈骗
+阿拉善
+  忑(奀)个立 从刀四 腾格尔//TENGELI TENGER4
+  内蒙古煤矿事故
+  土耳其突发7.8级：超4000人 //
+  塔吉克斯坦发生7.2级 喀什、阿图什 
+  阿根廷发生5.1级 //SAN SALVADOR DE JUJUY
+卡拉钦
+//HAILNNIK AMAIRIK INDIAN(NA:ARGS)LICK
+化学火车 脱轨
 
 //新冠肺炎
 ENVOID AXIS SEX
@@ -51,6 +51,4 @@ SRT.KRT^X:ALT:VWR.HSK^A.JTS
 CHWANP EAR
 YTLD^S BLW SGREEN
 TLS^Y
-
-KAI^AO FEN BAISIKO 
 

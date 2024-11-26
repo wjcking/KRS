@@ -1,13 +1,14 @@
 ﻿MKR
-//空间构引
+//空间构引 韵律
 a~nem^o
-	(&LSP~VWR)
+  а, о, у, ы, э, я, ё, ю, и, е
+	($SLS:LSP~VWR)
 	KA MI KW KAI KAO
-	一声平 二声杨 三声拐弯 四声降
+	//一声平 二声杨 三声拐弯 四声降
 A.IY.IA.O.U
 
 iIL
-hf
+hrf
   //胡夫 之间 剑 金字塔  
   i yL 照妖镜 图形识别 三棱镜 
   e E ey eY Ey Anti-Rotate
@@ -32,7 +33,6 @@ M
 字母 理科
 
 音译 
-//詹姆士王国
 	A 大写字母 	啊 A
 	T 下降 土 
 		soil 骚 
