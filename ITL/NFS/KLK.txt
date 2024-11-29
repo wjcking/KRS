@@ -1,4 +1,4 @@
-﻿TRK
+﻿KRT:KBT
 
 MST
 	TKS:TSK
@@ -6,10 +6,10 @@ MST
 	BSK:RSK:LSK
 	//FKT^AN:KFS
 
-	NFS
+	NFS:ISK
 	ZXS:JXS
-		asm
-		ltl
+		sas:asm
+		vls^w:tl
 	HZH
 
 	//FANG.TFS

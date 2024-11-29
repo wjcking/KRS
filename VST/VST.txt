@@ -49,6 +49,7 @@ M
 	//KONSONANT
 	//N.	辅音; 辅音字母(如B、K、D、F等);
 	//ADJ.	(与…)一致的，符合的，相同的，和谐的;
+	(FLX.LAI~FLZ)
 	RIEM^HY //RHYME
 		KLUSTERS KONSONANT 
 		KONSTITUTE
