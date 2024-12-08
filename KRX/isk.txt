@@ -24,8 +24,8 @@ IANK
     
     SILWOK //KELWS
     
+    MAN TXST //English:ketis#iglx
     TELANKS:TKS
-    MAN TXST
     LASIYA*
     BDRIGO~
   XRT

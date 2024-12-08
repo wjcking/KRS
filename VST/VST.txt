@@ -1,11 +1,16 @@
-﻿MKR
+﻿KDE
 //空间构引 韵律
-a~nem^o
-  а, о, у, ы, э, я, ё, ю, и, е
-	($SLS:LSP~VWR)
+grs:anem
+  A.IY.IA.O.U
+  А.О.У.Ы.Э.Я.Ё.Ю.И.Е
+  
+	1SP 2SY 3V 4ZN //#PINYIN
 	KA MI KW KAI KAO
-	//一声平 二声杨 三声拐弯 四声降
-A.IY.IA.O.U
+  GLM.LAI:ORC^KSR:FSR
+  //中东~维吾儿:束子:数字
+  $SLS:ENK:VWR:VRSK:KMT:LANK
+  $FTN:FLK:LST
+gls
 
 iIL
 hrf
