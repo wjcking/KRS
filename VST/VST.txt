@@ -7,7 +7,7 @@ grs:anem
 	1SP 2SY 3V 4ZN //#PINYIN
 	KA MI KW KAI KAO
   GLM.LAI:ORC^KSR:FSR
-  //中东~维吾儿:束子:数字
+  //&PINYIN:ZHONGDONG~VAWR:束子:数字
   $SLS:ENK:VWR:VRSK:KMT:LANK
   $FTN:FLK:LST
 gls
