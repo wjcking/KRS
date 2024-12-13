@@ -36,8 +36,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.89708895"
-     inkscape:cx="582.99681"
-     inkscape:cy="499.95042"
+     inkscape:cx="406.87158"
+     inkscape:cy="513.32702"
      inkscape:window-width="1858"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -914,7 +914,7 @@
          y="22.472143">V</tspan></text>
     <g
        id="g34774-8"
-       transform="matrix(-2.7759493,0,0,2.7759493,314.46444,-492.19592)">
+       transform="matrix(-2.7759493,0,0,2.7759493,311.22015,-492.19592)">
       <text
          id="text318-3"
          y="189.75443"
@@ -1793,23 +1793,23 @@
     <text
        id="text58"
        y="170.29208"
-       x="50.081547"
+       x="48.967964"
        style="font-size:6.58784px;line-height:1.25;font-family:sans-serif;stroke-width:0.49409"
        xml:space="preserve"
        transform="scale(1.0401661,0.96138492)"><tspan
          style="stroke-width:0.49409"
          y="170.29208"
-         x="50.081547"
+         x="48.967964"
          sodipodi:role="line"
          id="tspan56">LANDIS</tspan><tspan
          style="stroke-width:0.49409"
          y="178.52689"
-         x="50.081547"
+         x="48.967964"
          sodipodi:role="line"
          id="tspan57" /><tspan
          style="stroke-width:0.49409"
          y="186.76169"
-         x="50.081547"
+         x="48.967964"
          sodipodi:role="line"
          id="tspan58" /></text>
     <rect
@@ -1874,54 +1874,54 @@
          id="tspan40" /></text>
     <text
        id="text49"
-       y="157.8689"
-       x="33.437801"
+       y="157.85695"
+       x="53.729645"
        style="font-size:6.41928px;line-height:1.25;font-family:sans-serif;stroke-width:0.481447"
        xml:space="preserve"
-       transform="scale(1.0135489,0.98663219)"><tspan
+       transform="scale(1.0135489,0.98663221)"><tspan
          style="stroke-width:0.481447"
-         y="157.8689"
-         x="33.437801"
+         y="157.85695"
+         x="53.729645"
          sodipodi:role="line"
-         id="tspan43">ISNYK MHWT</tspan><tspan
+         id="tspan43">MHWT</tspan><tspan
          style="stroke-width:0.481447"
-         y="165.89299"
-         x="33.437801"
+         y="165.88104"
+         x="53.729645"
          sodipodi:role="line"
          id="tspan47" /><tspan
          style="stroke-width:0.481447"
-         y="173.9171"
-         x="33.437801"
+         y="173.90515"
+         x="53.729645"
          sodipodi:role="line"
          id="tspan49" /></text>
     <text
        id="text61"
        y="60.14027"
        x="224.84219"
-       style="font-size:5.58596px;line-height:1.25;font-family:sans-serif;fill:#a4a4a4;stroke-width:0.04;stroke:#969696;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       style="font-size:5.58596px;line-height:1.25;font-family:sans-serif;fill:#fafafa;stroke-width:0.035;stroke:none;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
        xml:space="preserve"
        transform="scale(1.1039387,0.9058474)"><tspan
-         style="fill:#a4a4a4;stroke-width:0.04;stroke:#969696;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#fafafa;stroke-width:0.035;stroke:none;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          y="60.14027"
          x="224.84219"
          id="tspan4"
          sodipodi:role="line" /><tspan
-         style="fill:#a4a4a4;stroke-width:0.04;stroke:#969696;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#fafafa;stroke-width:0.035;stroke:none;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          y="67.122719"
          x="224.84219"
          sodipodi:role="line"
          id="tspan50" /><tspan
-         style="fill:#a4a4a4;stroke-width:0.04;stroke:#969696;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#fafafa;stroke-width:0.035;stroke:none;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          y="74.105171"
          x="224.84219"
          sodipodi:role="line"
          id="tspan59">TLKES</tspan><tspan
-         style="fill:#a4a4a4;stroke-width:0.04;stroke:#969696;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#fafafa;stroke-width:0.035;stroke:none;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          y="81.087624"
          x="224.84219"
          sodipodi:role="line"
          id="tspan60" /><tspan
-         style="fill:#a4a4a4;stroke-width:0.04;stroke:#969696;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+         style="fill:#fafafa;stroke-width:0.035;stroke:none;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
          y="88.070068"
          x="224.84219"
          sodipodi:role="line"
@@ -1980,6 +1980,28 @@
          x="272.04016"
          sodipodi:role="line"
          id="tspan74" /></text>
+    <text
+       id="text77"
+       y="157.88077"
+       x="33.437851"
+       style="font-size:6.41928px;line-height:1.25;font-family:sans-serif;stroke-width:0.481447"
+       xml:space="preserve"
+       transform="scale(1.0135489,0.98663221)"><tspan
+         style="stroke-width:0.481447"
+         y="157.88077"
+         x="33.437851"
+         sodipodi:role="line"
+         id="tspan75">ISNYK </tspan><tspan
+         style="stroke-width:0.481447"
+         y="165.90486"
+         x="33.437851"
+         sodipodi:role="line"
+         id="tspan76" /><tspan
+         style="stroke-width:0.481447"
+         y="173.92897"
+         x="33.437851"
+         sodipodi:role="line"
+         id="tspan77" /></text>
   </g>
 </svg>
 <!--wjcking-->

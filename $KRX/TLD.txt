@@ -10,12 +10,12 @@ SLDUN
 
 	LENA:FCH.RIVER:РЕКА ЛЕ́НА
 		POKROVSK ПОКРОВСК
-		YAKUTSK ЯКУТСК
+		YAKUTSK ЯКУТСК //雅库茨克
 		ALDAN АЛДАН
 	LNAD
 
 	//FCH.RIVER:РЕКА МАЛАЯ БИРА
-	//KHABAROVSK ХАБАРОВСК
+	//KHABAROVSK ХАБАРОВСК 哈巴罗夫斯克 伯力
 ALTUN^DUN
 
 MWHAN.MWT

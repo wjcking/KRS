@@ -5,11 +5,11 @@ IMAIAO
 //伊方德普
 EasyFound@126.com
 	1984328
-	pop3.126.com 110
-	smtp.126.com 25
+	imap.126.com	993
+	smtp.126.com	465
 	i.163.com //SEVR.NAMW
-	//imap.126.com	993
-	//smtp.126.com	465
+	//pop3.126.com 110
+	//smtp.126.com 25
 	
 //维今丝 海格米勒 吴潇涵 维今时代
 wjcking@hotmail.com intellyer20010101
@@ -42,9 +42,9 @@ wjcking@eclipso.email #intellyer20010101
 //
 intel.great-site.net
 //  Username	epiz_32191325
-//  Password:ahBHuvJp8b
 //  MySql:  sql305.epizy.com Port:3306
-//  WebsiteIP:185.27.134.113
+//  WebsiteIP:185.27.134.
+//  Password:ahBHuvJp8b113
 brt.rf.gd
 //  Username	epiz_32871441
 //  Password: lH2KI1fBY3f96h

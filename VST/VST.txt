@@ -4,10 +4,10 @@ grs:anem
   A.IY.IA.O.U
   А.О.У.Ы.Э.Я.Ё.Ю.И.Е
   
-	1SP 2SY 3V 4ZN //#PINYIN
+	1SP 2SY 3V 4ZN //#PINYIN&NKS^EXCH~T
 	KA MI KW KAI KAO
   GLM.LAI:ORC^KSR:FSR
-  //&PINYIN:ZHONGDONG~VAWR:束子:数字
+  //&PINYIN:ZHONGDONG~VWR^A:束子:数字
   $SLS:ENK:VWR:VRSK:KMT:LANK
   $FTN:FLK:LST
 gls
@@ -27,7 +27,7 @@ Wo
 	Neck
 	h hm
 	T L S Z S
-	wOcAo woRI
+	wOc^Ao^rI
 M
 
 空间部分SØV

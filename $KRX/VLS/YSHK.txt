@@ -4,13 +4,11 @@ VTS
 	LTS^D
 	RSK.KST.FSK:SKR
 
-	//束卡元
-	//处地 导丹 地占 中天 
-	//地米 切彻 闪但 
-	//米希纶
-	TRI^ON:TRK 
+
+	TRK
 	//LSK:LI N~*RI M(IV)W
-	//TIRON TITANIUM
+	//TRI^ON TITANIUM
+	
 	//RCK^AWY.ASK.FBK:CO
 	//RFB.RBK^Y
 	TXH
@@ -19,7 +17,6 @@ VTS
 	//IRTZK
 	ATZ.TXK
 
-	//水米切木束
 	//HZH.KTS.AGZHS^W
 	//KNR:KNA:KRS
 	$TSK-KNT
