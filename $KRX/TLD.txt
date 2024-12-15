@@ -8,7 +8,7 @@ SLDUN
 	BDN^W:BHUTAN
 	NBR
 
-	LENA:FCH.RIVER:РЕКА ЛЕ́НА
+	LENA:FCH.RIVER:РЕКА.ЛЕ́НА
 		POKROVSK ПОКРОВСК
 		YAKUTSK ЯКУТСК //雅库茨克
 		ALDAN АЛДАН
@@ -36,8 +36,7 @@ THAILAND
 	TIMOR-LESTE DILI
 	//AUX^KS
 	AOSZH LIYA
-TASMANIA 
-
+TASMANIA
 
 /**/
 $特立的

@@ -7,14 +7,14 @@ grs:anem
 	1SP 2SY 3V 4ZN //#PINYIN&NKS^EXCH~T
 	KA MI KW KAI KAO
   GLM.LAI:ORC^KSR:FSR
-  //&PINYIN:ZHONGDONG~VWR^A:束子:数字
+  //&PINYIN:ZHONGDONG~VWR^A.ENKS
   $SLS:ENK:VWR:VRSK:KMT:LANK
   $FTN:FLK:LST
 gls
 
 iIL
 hrf
-  //胡夫 之间 剑 金字塔  
+  //束子:数字:胡夫 之间 金字塔  
   i yL 照妖镜 图形识别 三棱镜 
   e E ey eY Ey Anti-Rotate
   e y i
@@ -22,7 +22,7 @@ hrf
 NAI
 
 Wo
-	Rn rn  t d肚子有点顶
+	Rn rn  t d //肚子有点顶
 	Wg dl jG //Fallout
 	Neck
 	h hm
@@ -38,7 +38,7 @@ M
 字母 理科
 
 音译 
-	A 大写字母 	啊 A
+	A 大写字母 啊 A
 	T 下降 土 
 		soil 骚 
 		earth 饿死 鹅 

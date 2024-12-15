@@ -20,11 +20,11 @@ IANK
     ASNK
     MHWT Y TLD^S
     MW HAN MWT
-    YATE LANDIS
+    YATE:LANDIS
     
     SILWOK //KELWS
     
-    MAN TXST //English:ketis#iglx
+    MAN^TXST //YNGLISH^EMAI:RIKEN:KETIS#INGELIX
     TELANKS:TKS
     LASIYA*
     BDRIGO~
