@@ -7,13 +7,13 @@
 KANZD:KADER^Z
 KNT^ALN
   <TSK:TRI>
-  i
+  i //~k^s
   l
 	1
-	2 2~2//3S:SNK:ISK
+	2 2~2e//3S:SNK:ISK
 	~4- //BKL RZK SNK FINK FANG
 	
-	[DSR.TXK.FST]
+	[TSN^DSR.TXK.FST]
 	//60.60.60 = 180 //BLS GTS
 	//60.60~60 =~* 3600 //KLK BLZ TW^TAOP S.RAA:3
 	//60.60-60 *= 21.6000 BLS
