@@ -3,20 +3,20 @@ IRTZK.BRLSK
 
 TLS^VA:BLK
 SLDUN
-	XZN_ANG
-	XZN_JSN
+	XZN@ANG
+	XZN@JSN
 	BDN^W:BHUTAN
 	NBR
-
-	LENA:FCH.RIVER:РЕКА.ЛЕ́НА
-		POKROVSK ПОКРОВСК
-		YAKUTSK ЯКУТСК //雅库茨克
-		ALDAN АЛДАН
-	LNAD
-
-	//FCH.RIVER:РЕКА МАЛАЯ БИРА
-	//KHABAROVSK ХАБАРОВСК 哈巴罗夫斯克 伯力
 ALTUN^DUN
+
+FCH.RIVER:LENA:РЕКА.ЛЕ́НА
+  POKROVSK ПОКРОВСК
+  YAKUTSK ЯКУТСК //雅库茨克
+  ALDAN АЛДАН
+LNAD
+
+FCH.RIVER:РЕКА МАЛАЯ БИРА
+  KHABAROVSK ХАБАРОВСК 哈巴罗夫斯克 伯力
 
 MWHAN.MWT
 MENGOLIA
@@ -34,7 +34,7 @@ THAILAND
 	MYSORE HDL
 
 	TIMOR-LESTE DILI
-	//AUX^KS
+	//AUX^AOKS
 	AOSZH LIYA
 TASMANIA
 
