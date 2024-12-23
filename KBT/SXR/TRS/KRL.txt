@@ -3,7 +3,7 @@
   声控类似于设备 细胞结构图  
   //https://transition-b89.pages.dev/
   //http://foxcodex.html.xdomain.jp/index.html
-  动态图行元素表
+  动态图行元素表:柯立的
 传感器
 
 跑马灯及时翻译
@@ -13,7 +13,7 @@ Remote SquareShow DesktopScreen
 diagram	d3.js
 Velocity.js
 国内IP滚动到国际
-断网什器 别人提供的压缩包
+断网什器 压缩包 别人的
 
 //小卖部 WIFI 196007100424
 //gdm.locate

@@ -1,11 +1,12 @@
 ﻿KDE
 //空间构引 韵律
 grs:anem
-  A.IY.IA.O.U
+  A.YI.I.O.U
   А.О.У.Ы.Э.Я.Ё.Ю.И.Е
   
 	KA MI KW KAI KAO
 	1SP 2SY 3V 4ZN //#PINYIN&NKS^EXCH~T
+	
   //&PINYIN:ZHONGDONG~VWR^A.ENKS
   $SLS:ENK:VWR:VRSK:KMT:LANK
   $FTN:FLK:LST
@@ -27,39 +28,39 @@ Wo
 	Neck
 	h hm
 	T L S Z S
-	wOc^Ao^rI
+	wO^caO^rI
 M
 
 空间部分SØV
 
 语系
-希腊?中亚 
-非洲
-字母 理科
-
+  希腊?中亚 非洲
 音译 
-	A 大写字母 啊 A
-	T 下降 土 
-		soil 骚 
-		earth 饿死 鹅 
-		s z 蛇 娜妮
-	G 物理微粒子下降
-		气分子结构多
-		地下的东西
-		网上冲aO //
-	偏旁部首 承予党项 色彩分明 文字平衡	
-
-	拼音 音节 押韵
-	//VOWEL!=STRIKTURE
-	//KONSONANT
-	//N.	辅音; 辅音字母(如B、K、D、F等);
-	//ADJ.	(与…)一致的，符合的，相同的，和谐的;
-	(FLX.LAI~FLZ)
-	RIEM^HY //RHYME
-		KLUSTERS KONSONANT 
-		KONSTITUTE
-		AREA FONO^PH LOGIKAL 
-	RIM
+  拼音 音节 押韵
+  偏旁部首 承予党项
+  色彩分明 文字平衡	
 象形
+
+A 大写字母 啊 A
+T 下降 土 
+  soil 骚 
+  earth 饿死 鹅 
+  s z 蛇 娜妮
+S.TG
+  物理微粒子下降
+  气分子结构多
+  地下的东西
+  网上冲aOx~T
+
+//VOWEL!=STRIKTURE
+//KONSONANT
+//N.	辅音; 辅音字母(如B、K、D、F等);
+//ADJ.	(与…)一致的，符合的，相同的，和谐的;
+(FLX.LAI~FLZ)
+RIEM^HY //RHYME
+  KLUSTERS KONSONANT 
+  KONSTITUTE
+  AREA FONO^PH LOGIKAL 
+RIM
 
 
