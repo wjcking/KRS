@@ -11,7 +11,7 @@ LSK
   TX.KSN
   
   LVX
-  AGZS_W //木米从 厄 R米 
+  AWGZS //木米从 厄 R米 
 
 	ARTZK
 	FS:EF_W
