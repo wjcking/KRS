@@ -5,7 +5,7 @@ grs:anem
   А.О.У.Ы.Э.Я.Ё.Ю.И.Е
   
 	KA MI KW KAI KAO
-	1SP 2SY 3V 4ZN //#PINYIN&NKS^EXCH~T
+	1SP 2SY@ 3V 4ZN //#PINYIN&NKS^EXCH~T
 	
   //&PINYIN:ZHONGDONG~VWR^A.ENKS
   $SLS:ENK:VWR:VRSK:KMT:LANK
@@ -15,8 +15,9 @@ gls
 
 iIL
 hrf
-  //束子:数字:胡夫 之间 金字塔  
-  i yL 照妖镜 图形识别 三棱镜 
+  //束子:数字:胡夫 之间 金字塔
+  //照妖镜 三棱镜
+  i yL
   e E ey eY Ey Anti-Rotate
   e y i
   <TIK:TAIK>
@@ -54,8 +55,8 @@ S.TG
 
 //VOWEL!=STRIKTURE
 //KONSONANT
-//N.	辅音; 辅音字母(如B、K、D、F等);
-//ADJ.	(与…)一致的，符合的，相同的，和谐的;
+//N 辅音;辅音字母(B、K、D、F)
+//ADJ.与…一致的 符合的 相同的 和谐的
 (FLX.LAI~FLZ)
 RIEM^HY //RHYME
   KLUSTERS KONSONANT 
