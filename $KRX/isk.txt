@@ -19,10 +19,10 @@ IANK
     ATLANTIS
       ASNK
       MHWT Y TLD^S
-       //YNGLISH
-       //EMAI:RIKEN
-       //BWR^A.TISH
-       //KETIS#INGELIX
+        //YNGLISH
+        //EMAI:RIKEN
+        //BWR^A.TISH
+        //KETIS#INGELIX
         MAN^TXST
       MW HAN MWT
     YATE:LANDIS
