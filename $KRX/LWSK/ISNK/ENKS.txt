@@ -8,7 +8,7 @@ FST
 
 /*
 *NO:ENK
-*NOT^AO:ZNK
+*NOT^AO:ZNK:LCK
 *KAST!TANK~TRF
 *<#HLKT.KZT.FBK> 
 */
