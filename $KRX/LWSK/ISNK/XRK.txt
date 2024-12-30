@@ -3,8 +3,8 @@ KRX~T:TRS
 S:X:Z
   R //-XRK^RE:XREK
   
-  D 
-  L
+  D
+  R-L
   S
   
   <FTN.FXS~FLZ-S>

@@ -7,11 +7,12 @@
 KANZD:KADER^Z
 KNT^ALN
   <TSK:TRI>
-  i //~k^s
-  l
+  I //~K^S
+  L
+    E2
+    S3 //SNK:ISK
+    ~4- //BKL RZK SNK FINK FANG
 	1
-	2 2~2e//3S:SNK:ISK
-	~4- //BKL RZK SNK FINK FANG
 	
 	[TSN^DSR.TXK.FST]
 	//60.60.60 = 180 //BLS GTS

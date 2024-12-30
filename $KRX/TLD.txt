@@ -9,14 +9,18 @@ SLDUN
 	NBR
 ALTUN^DUN
 
-FCH.RIVER:LENA:РЕКА.ЛЕ́НА
-  POKROVSK ПОКРОВСК
-  YAKUTSK ЯКУТСК //雅库茨克
-  ALDAN АЛДАН
+LUK:CHAFWO ЛЮБИТЬ 6B7
+RIVR 
+  ОТЕЛЬ
+  ОБЩЕЖИТИЕ
+  
+  LENA:РЕКА.ЛЕ́НА
+    YAKUTSK ЯКУТСК //雅库茨克
+    ALDAN АЛДАН
+    //POKROVSK ПОКРОВСК РЕСПУБЛИКА САХА
+  РЕКА МАЛАЯ БИРА
+    KHABAROVSK ХАБАРОВСК 哈巴罗夫斯克 伯力
 LNAD
-
-FCH.RIVER:РЕКА МАЛАЯ БИРА
-  KHABAROVSK ХАБАРОВСК 哈巴罗夫斯克 伯力
 
 MWHAN.MWT
 MENGOLIA
