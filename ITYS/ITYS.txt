@@ -2,12 +2,14 @@ VSD:NFS.JXS-XRT
 
 //IN71S
 //INTVS
-//ЙЧИНС^Я
+//ИЧЕНС^Я
+//ЙЧИНС^Й
+//ИЧС^ЙН
   //QZS~ZTS
   //  QTY.QTV
   //  QUTYS^QJS:ELS*LXR
   //LVX:LRX
-
+  //QYS
 ITYS
   KVT~KTV
   
