@@ -1,5 +1,4 @@
 VSD:NFS.JXS-XRT
-
 //IN71S
 //INTVS
 //ИЧЕНС^Я
@@ -10,8 +9,16 @@ VSD:NFS.JXS-XRT
   //  QUTYS^QJS:ELS*LXR
   //LVX:LRX
   //QYS
+
+TRK.TRT:TFS-S~
+TRX:XRT-F:FTX-S
+
 ITYS
   KVT~KTV
-  
+  XRKT
+  KBTX
+    KAIBI7
+    KAIMIX
+  KINX^N 
   KRT:KUNZ
 KRYIN:KRTX
