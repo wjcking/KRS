@@ -17,9 +17,9 @@
 <XRK:RZS:RCS>
 艾萨尼牙克
 	艾萨尼柯^来昂尼柯
-	  //IDN 
+	  //IDN
 	  //XDZ
-      //IDU.MANTK
+      //IDU.MANTIK
 	  //GDY
 		丫地安^印
 		希地价 
