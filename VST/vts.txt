@@ -17,7 +17,8 @@ IRK:ILK
 	$	//SLS
 	^	//SKT:SKR
 	% //PST.KNT
-		@ //ISNK:NLUS:AN'G
+		@ //ISNK:NLUS
+      ' //ANG ENG
 		O //LENK@ENG LEND@ENG KLT
 		F //FLC:FLX^ALN:FLZ VZS^N.FSN
 	#	//ZH ZHL H KTS
