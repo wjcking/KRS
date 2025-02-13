@@ -10,9 +10,9 @@ IRK:ILK
 *! TXU.JSN^NA
 *;
 */
-& //LSP~VWR:VSD$VRSK
+& //VWR~LSP:VSD$VRSK
 	~ //DLS BLS^P PLS
-	_ //NSK-TZH_ANG^WA
+	_ //NSK-TZH'WA
 
 	$	//SLS
 	^	//SKT:SKR
