@@ -16,6 +16,14 @@ ESH
 	//LNCH:RNSH
 	//ELS:LSH.IN.ESH.LN
 	ECH^S
+    //_echs!tis
+    //FALL#EN
+    //XA
+    //PADA7:ПАДАТЬ
+    
+    //E
+    //HUNGRY
+    //GALWONEI ГОЛОДНЫЙ
 	//MUTWL
 	//MSL^KS
 	//ECH^S
