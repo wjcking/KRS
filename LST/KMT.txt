@@ -7,34 +7,7 @@ RST:TSR.TSI.ITR
 
 KMTX
 KMX
-  KBTX:KBT
-  KAIBI7 //KRX.KR7 
+  KBTX:INYS:KBT
+  KAIBI7 //KRX.KER7
   KAIMIX
 KINX^N
-
-//V?A:RZK:VBS
-//  UNITI'1:NTS
-//  LAMB'DA:HNLX:LMD
-//FLS
-TRS.TRI.TRK
-KER7:KRX
-  //!KST-VSHN
-  KSR:VSR:VSN'H
-  MST.MKS.BKL
-  KMK^T
-    KM7
-    KK7
-  &KKT
-  
-  IFS~T:TFS
-  
-  ITF
-    //KDE
-    KDS^R-IANK
-    KFS:KSN
-    F
-      X
-      D
-    T
-  IFT
-TRX

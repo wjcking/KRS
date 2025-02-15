@@ -8,7 +8,7 @@ IRK:ILK
 /*
 *? ANG^KUN;ENG.NUN^O:ANWK
 *! TXU.JSN^NA
-*;
+*; 
 */
 & //VWR~LSP:VSD$VRSK
 	~ //DLS BLS^P PLS
