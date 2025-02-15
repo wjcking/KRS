@@ -8,26 +8,26 @@ INTVS
 
 ESH
 	RSH
-	//ASH^CH
-	//ISBNLU:HZPNK
-	//@NLU~BLS 
+		ASH^CH
+		ISBNLU:HZPNK
+		@NLU~BLS 
 
-	//ACHS_ESH
-	//LNCH:RNSH
-	//ELS:LSH.IN.ESH.LN
+		ACHS_ESH
+		LNCH:RNSH
+		ELS:LSH.IN.ESH.LN
 	ECH^S
-    //_echs!tis
-    //FALL#EN
-    //XA
-    //PADA7:ПАДАТЬ
+    	_echs!tis
+    	FALL#EN
+    	XA
+    	PADA7:ПАДАТЬ
     
-    //E
-    //HUNGRY
-    //GALWONEI ГОЛОДНЫЙ
-	//MUTWL
-	//MSL^KS
-	//ECH^S
-	//HSH
-	//LBT:HLSH.NSH
+    	E
+    	HUNGRY
+    	GALWONEI ГОЛОДНЫЙ
+		MUTWL
+		MSL^KS
+		ECH^S
+		HSH
+		LBT:HLSH.NSH
 	TXK
 INSH
