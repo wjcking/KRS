@@ -28,8 +28,8 @@ KER7:KRX
       //v~k^e^o.f?a
       X
       //ita'o 
-      //  directive
       //  detail
+      //  directive
       //rkt
       ~D 
     T

@@ -2,7 +2,7 @@ KTS.TLZ
 
 TFS
   KRI:ITLS
-  RKS-RLS-RZK //MLS
+  RKS-RLS-RZK //#'M
   TLS.LKS
 FST
 

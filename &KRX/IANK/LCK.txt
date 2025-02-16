@@ -3,21 +3,22 @@
 //空间闪电  体申及兴 
 //束可^杜 像素 激光
 LSK
-  AK.JSN
-  TAK.INT
-  TUK.LNT.KAST//7
-    LUK
-    FNK
-  TX.KSN
+  //AK.JSN
+  //TAK.INT
+  //TUK.LUK
+  //LNT.KAST 7
   
   LVX
-  AWGZS //木米从 厄 R米 
+  //米#若热木此 厄折
+  //水若但汝木 钍
+  AWGZHS
+  FWRNZK
 
 	ARTZK
-	FS:EF_W
-	AE:AO:EMT.ASAK
-	RC: REN.VESAID.DOWN 
-			CAL.VESAID.STICK&QUOTA            
-	CK:KL
-	IY
+	//FS:EF'W
+	//AE:AO:EMT.ASAK
+	//RC: REN.VESAID.DOWN 
+	//		CAL.VESAID.STICK&QUOTA            
+	//CK:KL
+	//IY
 INCT

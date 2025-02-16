@@ -2,27 +2,26 @@
 IRK:ILK
 
 [KSN~DSR]
-(KRS:SKT^IL)
 <STK:SKT>
 
-/*
-*? ANG^KUN;ENG.NUN^O:ANWK
-*! TXU.JSN^NA
-*; 
-*/
-& //VWR~LSP:VSD$VRSK
-	~ //DLS BLS^P PLS
-	_ //NSK-TZH'WA
+(KRS:SKT'IL)
+& VWR~LSP:VSD$VRSK
+	~ DLS BLS^P PLS
+	_ NSK-TZH'WA
 
-	$	//SLS
-	^	//SKT:SKR
-	% //PST.KNT
-		@ //ISNK:NLUS
-      ' //ANG ENG
-		O //LENK@ENG LEND@ENG KLT
-		F //FLC:FLX^ALN:FLZ VZS^N.FSN
-	#	//ZH ZHL H KTS
-*	//LXR LXA LXY
-
-
-
+	$	SLS
+	^	SKT:SKR
+	  ' AI'N#
+	% PST.KNT
+		@ ISNK:NLUS
+      ' ANG ENG
+      ~ N:M
+		O LENK@ENG LEND@ENG KLT
+		F FLC:FLX^ALN:FLZ VZS^N.FSN
+	#	ZH ZHL H KTS 
+	  # MLS
+	  ' MLS
+	? ANG^KUN;ENG.NUN^O:ANWK
+	! TXU.JSN^NA
+	; krt //current class
+*	LXR LXA LXY
