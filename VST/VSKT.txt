@@ -1,5 +1,5 @@
 ﻿KDE
-//空间构引 云梠
+"空间构引 云梠
 
 KRT.FTN.RKB
 TXK
@@ -8,21 +8,21 @@ grs:anem
   А.О.У.Ы.Э.Я.Ё.Ю.И.Е
   
 	KA MI KW KAI KAO
-	1SP 2SY@ 3V 4ZN //#PINYIN&NKS^EXCH~T
+	1SP 2SY@ 3V 4ZN "#PINYIN&NKS^EXCH~T
 	
 	(KM7:LANK) 
   &SLS.$ENK
   &FTN:FLK:LST
-  //N'ʁ GIN GHR
-  //GLM.LAI:ORC^KSR:FSR
-  //&PINYIN:ZHONGDONG
+  "N'ʁ GIN GHR
+  "GLM.LAI:ORC^KSR:FSR
+  "&PINYIN:ZHONGDONG
   &VWR~VRSK 
 gls
 
 iIL
 hrf
-  //束子:数字:胡夫 之间 金字塔
-  //照妖镜 三棱镜
+  "束子:数字:胡夫 之间 金字塔
+  "照妖镜 三棱镜
   i yL
   e E ey eY Ey Anti-Rotate
   e y i
@@ -30,8 +30,8 @@ hrf
 NAI
 
 Wo
-	Rn rn  t d //肚子有点顶
-	Wg dl jG //Fallout
+	Rn rn  t d "肚子有点顶
+	Wg dl jG "Fallout
 	Neck
 	h hm
 	T L S Z S
@@ -59,12 +59,12 @@ S.TG
   地下的东西
   网上冲aOx~T
 
-//VOWEL!=STRIKTURE
-//KONSONANT
-//N 辅音;辅音字母(B、K、D、F)
-//ADJ.与…一致的 符合的 相同的 和谐的
+"VOWEL!=STRIKTURE
+"KONSONANT
+"N 辅音;辅音字母(B、K、D、F)
+"ADJ.与…一致的 符合的 相同的 和谐的
 (FLX.LAI~FLZ)
-RIEM^HY //RHYME
+RIEM^HY "RHYME
   KLUSTERS KONSONANT 
   KONSTITUTE
   AREA FONO^PH LOGIKAL 

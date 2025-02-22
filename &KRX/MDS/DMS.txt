@@ -15,6 +15,11 @@ TSM
 	[FTS.FST.FTN:FSN]
 	[DSR.MST]
 	[DSN.MTS]
-	//S:R.N
-	//MLK^WO:MSK
+	R.S.N:Z
+    KNS
+    NDS'Z "HDL
+    NDZ
+    MDS:IM^DI^AS
+    MDZ-A^DEZ
+	MLK^WO:MSK
 DMS

@@ -14,9 +14,9 @@ KRLS
 		ALTWN^DWN
 		
 		UNA^SH:ATV
-      GTS:GWON.TASH.XN
-      -QZS:ITYS:TXQ.JSN^NA //МОЛОДЕЦNYS
-      ENKS.LCK:TCH^OR.JAKE.TERI
+      GTS'WN:GWON.TASH.XN
+      -QZS:ITYS:TXQ.JSN^NA "МОЛОДЕЦNYS
+      ENKS.LCK:TCH^OR.JAKE.TERI "Troll.Jacketry
 		UNZ
 		
 		<LYX:TXV:KMTX>

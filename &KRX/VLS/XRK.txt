@@ -11,7 +11,7 @@
 		KLK:BLZ
 		  MTY
 		    MAN.TXST
-		    KELAK:BALIZ
+		    KELAK:BA'LIZ
 		    KRT.XRK
 		  LST
 		BLS
