@@ -16,7 +16,7 @@ ESH
 		LNCH:RNSH
 		ELS:LSH.IN.ESH.LN
 	ECH^S
-    	_TIS!
+    	TIS
     	FALL#EN
     	XA
     	PADA7:ПАДАТЬ
