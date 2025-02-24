@@ -1,28 +1,29 @@
 ﻿PST
 
-WATER.PROOF:WET EXTERMINATE
 DECORATION:УКРА.ШЕНИЕ^ИЧЕНС
-HZH.TSH' "TREE MATERIAL
+WATER.PROOF:WET.EXTERMINATE
+HZH.TSH' TREE.MATERIAL
+
+TRS~LKS'N
+TRYLESS:ERADICATE
+HUMNR:IRDIKAT
 
 [LTS'WO:NFS:JXS]
-[BZKLK~TXK:SKELETON:TEST]
-TRS.LKS'N
-TRYLESS:ERADICATE "HUMNR:IRDIKAT
+[~BZKLK:KPT:TXK:SKELETON:CONTRAST]
+德克氏:水波折@希彻氏:和波切'厄希彻.丝波柯
 
-"德克氏:水波折@希彻氏:和波切
+户外遮挡 挡风布 屏 工作服 
+工铲 "木抹子
+手锯
 
-"户外遮挡 挡风布 屏 工作服 
-"工铲 "木抹子
-"手锯
-
-"电钻
-"木工凿
-"木工胶白乳胶
-"木梁连接件
-"夹芯彩钢板
+电钻
+木工凿
+木工胶白乳胶
+木梁连接件
+夹芯彩钢板
 
 (FWCH:CHWAFO.PWRWF)
-通风口:通风球 "冬瓜散热器  
+通风口:通风球 冬瓜散热器  
   排风管通风管
   排风口帽
 橱窗通风抽风机
@@ -30,58 +31,61 @@ TRYLESS:ERADICATE "HUMNR:IRDIKAT
 KRT:$VLZ.ZXS:HURISTK
 RKB~LWZKE!LIGHT:NARROW~BEAM:SQUEEZE$SKR
 WWW.HKZNL.COM/PRODUCT/ 
-"采光
-"  "采光罩
-"  圆形天窗
-"  采光球:光导管
-"  导光筒 
-"	排烟
-"防水
+采光
+  采光罩
+  圆形天窗
+  采光球:光导管
+  导光筒 
+	排烟
+防水
 
 [DAIKO.RASHN:УКРА.ШЕНИЕ^ИЧЕНС]
 NATURAL BUILDING
 MUD HOUSE
 COB CLAY WALL
-"干草 夯土 摸具 土砖
-"防雨 袋
+干草 夯土 摸具 土砖
+防雨 袋
+
 
 [WATER.PROOF:WET EXTERMINATE]
-"家用打井 钻杆钻头 手压水泵  "动水泵压水器
-"水箱储水
-"化粪桶 排水管"防臭下水管
-"坐便椅 "ITEM.JD.COM/10040054193912.HTML#CRUMB-WRAP
+家用打井 钻杆钻头 手压水泵  动水泵压水器
+水箱储水
+化粪桶 排水管防臭下水管
+坐便椅 ITEM.JD.COM/10040054193912.HTML#CRUMB-WRAP
  
-"热水棒 加热棒 电热水龙头 即热式小厨宝 迷你热水器 冲凉宝 
+热水棒 加热棒 迷你热水器 "电热水龙头 即热式小厨宝  冲凉宝 
 
-[拼接方块毯:玻璃桌面@GLASS]  
+[拼接方块毯~玻璃桌面@GLASS]  
   TSL.EXCH~BLS
   METHANOL GASOLINE OIL FUEL
   ILAIK.THNIK
   MINER MAGNETIC FIELD
-  "迷你石油发电机
-  "迷你特斯拉充电 
-  "无线充电 
+  迷你发电机
+  迷你特斯拉充电 
+  无线充电 
   
-  风光互补太阳能 "PSH-LINE:25 50 100 METER
-  户外移动电源220V便携 "ITEM.JD.COM/10049382155917.HTML#NONE
+  风光互补太阳能 PSH-LINE:25 50 100 METER
+  户外移动电源220V便携 ITEM.JD.COM/10049382155917.HTML#NONE
   
   ROBOT VACUUM CLEANER
-  //空气净化器 空气干燥机
-  //扫地机器人
-"遮阳棚 入口
+  空气净化器 空气干燥机
+  扫地机器人
+遮阳棚 入口
 
-//<桶 模具>
-//多功能无烟折叠灶野炊炉
-//米粉机
-// 米粉 "讲抱超
-// 米长 
-// 米糕 "
-//电动和面机
-//美的（MIDEA）面条机
+[模具:桶 长方 烤:移动]
+CLAY STOVE "CAST SMOKELESS
+自制 炉 两用 "柴汽煤
+多功能无烟折叠灶野炊炉
 
-//玻璃桌面
-//电视天线
-//投影仪 4K
+米粉机
+ 米粉 讲抱超
+ 米长 
+ 米糕 
+电动和面机
+美的（MIDEA）面条机
 
-DEPTHPOWER item.jd.com/10021668728668.html
+电视天线
+投影仪 4K
+
+DEPTHPOWER ITEM.JD.COM/10021668728668.HTML
 滑板车 
