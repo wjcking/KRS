@@ -45,7 +45,6 @@ FTN.FXS.FSH^EN
 FLD^AIN
 BLS^R
 
-/**/
 $特立的
 //英克希乐:卡乐丝克:卡的克丝
 //
