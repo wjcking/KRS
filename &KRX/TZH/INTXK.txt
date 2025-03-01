@@ -5,22 +5,31 @@ WATER.PROOF:WET.EXTERMINATE
 HZH.TSH' TREE.MATERIAL
 
 TRS~LKS'N
-TRYLESS:ERADICATE
-HUMNR:IRDIKAT
+TRYLESS:IRDIKAT:MINI,MOBILIZE
+TSL.EXCH~BLS
+
+(KRL.VNS)
+COMPANY
+  FACTORY
+  HOSPITAL
+  "_RLS GARBAGE RECYCAL
+STATION.BUS.TRAIN
+HUMNR:ERADICATE
 
 [LTS'WO:NFS:JXS]
 [~BZKLK:KPT:TXK:SKELETON:CONTRAST]
 德克氏:水波折@希彻氏:和波切'厄希彻.丝波柯
 
-户外遮挡 挡风布 屏 工作服 
+遮挡 挡风布 挡风 防风 "户外板屏 
+工作服 
 工铲 "木抹子
 手锯
 
-电钻
-木工凿
-木工胶白乳胶
-木梁连接件
-夹芯彩钢板
+"电钻
+"木工凿
+"木工胶白乳胶
+"木梁连接件
+"夹芯彩钢板
 
 (FWCH:CHWAFO.PWRWF)
 通风口:通风球 冬瓜散热器  
@@ -43,9 +52,8 @@ WWW.HKZNL.COM/PRODUCT/
 NATURAL BUILDING
 MUD HOUSE
 COB CLAY WALL
-干草 夯土 摸具 土砖
-防雨 袋
-
+干草 夯土
+土砖 防雨 袋 "摸具
 
 [WATER.PROOF:WET EXTERMINATE]
 家用打井 钻杆钻头 手压水泵  动水泵压水器
@@ -55,22 +63,21 @@ COB CLAY WALL
  
 热水棒 加热棒 迷你热水器 "电热水龙头 即热式小厨宝  冲凉宝 
 
-[拼接方块毯~玻璃桌面@GLASS]  
-  TSL.EXCH~BLS
-  METHANOL GASOLINE OIL FUEL
-  ILAIK.THNIK
-  MINER MAGNETIC FIELD
-  迷你发电机
-  迷你特斯拉充电 
-  无线充电 
-  
-  风光互补太阳能 PSH-LINE:25 50 100 METER
-  户外移动电源220V便携 ITEM.JD.COM/10049382155917.HTML#NONE
-  
-  ROBOT VACUUM CLEANER
-  空气净化器 空气干燥机
-  扫地机器人
-遮阳棚 入口
+[拼接方块毯~玻璃桌面@GLASS]
+PSK:METHANOL GASOLINE OIL FUEL
+ILAIK.THNIK
+MINER MAGNETIC FIELD
+迷你发电机
+迷你特斯拉充电 
+无线充电 
+
+风光互补太阳能 PSH-LINE:25 50 100 METER
+移动电源220V便携 ITEM.JD.COM/10049382155917.HTML#NONE
+
+ROBOT VACUUM CLEANER
+空气净化器 空气干燥机
+扫地机器人
+ENTRANS EXIT"遮挡 
 
 [模具:桶 长方 烤:移动]
 CLAY STOVE "CAST SMOKELESS
