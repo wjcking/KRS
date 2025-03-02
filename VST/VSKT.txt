@@ -6,39 +6,38 @@ KRT.FTN.RKB
 &SLS.$ENK
 &VWR "ZHONGDONG
   (MLS:TLD-GLS)
+  (SNK@NLU&KD'NR)
   (KM7:LANK) 
-  FTN:FLK:LST
+  FTN:FLK:LST 
   O'KOREA S.V
-  
   KA MI KW KAI KAO
-  1SP E2SY' 3S'V ^S4ZN "K'SH#PINYIN&NKS^EXCH~T
+  l1SP E2SY' 3S'V ^S4ZN "K'SH#PINYIN&NKS^EXCH~T
 ~VRSK
 
-grs:anem
+GRS:ANEM
   A.YI.I.O.U
   А.О.У.Ы.Э.Я.Ё.Ю.И.Е
   "N' GIN GHR
   "GLM.LAI:ORC^KSR:FSR
-kls-TXK
+KLS-TXK
 
-
-iIL
-hrf
+IIL
+HRF
   "束子:数字:胡夫 之间 金字塔
   "照妖镜 三棱镜
-  i yL
-  e E ey eY Ey Anti-Rotate
-  e y i
+  I YL
+  E E EY EY EY ANTI-ROTATE
+  E Y I
   <TIK:TAIK>
 NAI
 
-Wo
-	Rn rn  t d "肚子有点顶
-	Wg dl jG "Fallout
-	Neck
-	h hm
+WO
+	RN RN  T D "肚子有点顶
+	WG DL JG "FALLOUT
+	NECK
+	H HM
 	T L S Z S
-	wO^caO^rI
+	WO^CAO^RI
 M
 
 空间部分SØV
@@ -53,14 +52,14 @@ M
 
 A 大写字母 啊 A
 T 下降 土 
-  soil 骚 
-  earth 饿死 鹅 
-  s z 蛇 娜妮
+  SOIL 骚 
+  EARTH 饿死 鹅 
+  S Z 蛇 娜妮
 S.TG
   物理微粒子下降
   气分子结构多
   地下的东西
-  网上冲aOx~T
+  网上冲AOX~T
 
 "VOWEL!=STRIKTURE
 "KONSONANT
