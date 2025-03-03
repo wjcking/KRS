@@ -2,8 +2,9 @@
 TXH.MFS^EN
 
 MST
-MSD
+MSD  
   MDY
+    MTK^A "ATMS
     MCK^IN
     RCK.RKB
   MLS:KDKS
@@ -53,7 +54,7 @@ KEST'ETS
 MDY.NDS
 SRKO~IKLIPS
 SWOV^IT
-  [@F:D.O.P^H]
+  (@F:D.O.P^H)
   JINFNNI@FLX "DOPHIN:ДЕЛЬФИН
   IMAZH:PRAO:ZKET "project
   IKO.LAO.KASHN:SONAR "echo location
