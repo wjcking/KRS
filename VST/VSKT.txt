@@ -11,16 +11,18 @@ SLS&.ENK$
   I1SP E2SY' 3S'V ^S4ZN 'PINYIN#
   NKS&EXCH~T
   
-  (O;KOREAN;S;V.HANGUL)
+  (O;S;V;KOREAN:HANGUL)
+  KBT&LBT
   
   (MLS:TLD-GLS)
-  (SNK@NLU&KD'NR)
+  (SNK@NLU&KD'NWR)
   (KM7:LANK)
-  VWR "XINZAN'-ZHON'DON'
-  KTS
+  SPL
+    VWR "XINZAN'-ZHON'DON'
+  KTZ
   
   AZTK:ASNK-I
-  HNLX&KRX:ISK
+  HNLX&KRX:ISK&RZT
   VSD:VRSD
 FTN:FLK:LST
 
@@ -29,7 +31,8 @@ GRS:ANEM "云梠空间构^英
   А.О.У.Ы.Э.Я.Ё.Ю.И.Е
   N
     GIN GHR
-    GLM.LAI:ORC^KSR:FSR
+    GLM.LAI
+    ORC^KSR:FSR
   '
 KLS-TXK
 
