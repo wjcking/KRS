@@ -11,14 +11,18 @@ SLS&.ENK$
   I1SP E2SY' 3S'V ^S4ZN 'PINYIN#
   NKS&EXCH~T
   
-  (O;S;V;KOREAN:HANGUL)
-  KBT&LBT
+  O;S;V;
+  (
+  KOREAN:HANGUL
+  Neder Nether Ober Hol Dutch
+  )
+  KBT&LBT~LAND.LENK
   
   (MLS:TLD-GLS)
   (SNK@NLU&KD'NWR)
   (KM7:LANK)
   SPL
-    VWR "XINZAN'-ZHON'DON'
+    VWR,KZR "XINZAN'-ZHON'DON'
   KTZ
   
   AZTK:ASNK-I
@@ -26,13 +30,13 @@ SLS&.ENK$
   VSD:VRSD
 FTN:FLK:LST
 
-GRS:ANEM "云梠空间构^英
+GRS-ANEM "云梠空间构^英
   A.YI.I.O.U
   А.О.У.Ы.Э.Я.Ё.Ю.И.Е
-  N
-    GIN GHR
-    GLM.LAI
+  N:HRD:VZD
+    GIN-GHR
     ORC^KSR:FSR
+    GLM#LAI:GRM,A:HVLX
   '
 KLS-TXK
 
@@ -47,12 +51,12 @@ HRF
 NAI
 
 WO
-	RN RN  T D "肚子有点顶
+	RN RN  T D "杜子有点冬
 	WG DL JG "FALLOUT
 	NECK
 	H HM
 	T L S Z S
-	WO^CAO^RI
+	W^COAO^RI
 M
 
 空间部分SØV
