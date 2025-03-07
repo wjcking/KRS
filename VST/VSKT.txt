@@ -3,7 +3,7 @@ KRT.FTN.RKB
 
 &VRSK:KRT.VTS
 
-KENR:LD-RC:HRK.RD 'MONGOLIAN&
+KENR:LD-RC:HRK.RD 'MONGOLIAN$
 SLS&.ENK$ 
   [TH^K] 
   KA MI KW KAI KAO
@@ -13,8 +13,8 @@ SLS&.ENK$
   
   O;S;V;
   (
-  KOREAN:HANGUL
-  Neder Nether Ober Hol Dutch
+    KOREAN:HANGUL:NG'Y
+    NEDER NETHER OBER HOL DUTCH 'LAND
   )
   KBT&LBT~LAND.LENK
   
@@ -25,30 +25,34 @@ SLS&.ENK$
     VWR,KZR "XINZAN'-ZHON'DON'
   KTZ
   
-  AZTK:ASNK-I
+  TRK:KOT~B-IRX-FTN
   HNLX&KRX:ISK&RZT
-  VSD:VRSD
+  
+  <KLS-TXK>
+  AZTK:ASNK-I
+  VSD.VRSD
 FTN:FLK:LST
 
-GRS-ANEM "云梠空间构^英
-  A.YI.I.O.U
+'O,R,C
+  vgs~vns:anem
+  GIN^JN'HIN  
+  CAIDE^KSR \\-KCX -T.F~ XTZ:KD7SZ
+  
+  ist:idx:KST'F KD:FSR
+  A.Y1.I.O.U
   А.О.У.Ы.Э.Я.Ё.Ю.И.Е
-  N:HRD:VZD
-    GIN-GHR
-    ORC^KSR:FSR
-    GLM#LAI:GRM,A:HVLX
-  '
-KLS-TXK
+CRX
 
 IIL
 HRF
   "束子:数字:胡夫 之间 金字塔
-  "照妖镜 三棱镜
+  "镜妖照 三棱镜
   I YL
-  E E EY EY EY ANTI-ROTATE
+  e E eY EY Ey "ANTI-ROTATE
   E Y I
   <TIK:TAIK>
-NAI
+  NAI
+HRO^AD
 
 WO
 	RN RN  T D "杜子有点冬
@@ -56,7 +60,7 @@ WO
 	NECK
 	H HM
 	T L S Z S
-	W^COAO^RI
+	W^COOA^RI
 M
 
 空间部分SØV
@@ -74,7 +78,7 @@ T 下降 土
   SOIL 骚 
   EARTH 饿死 鹅 
   S Z 蛇 娜妮
-S.TG
+S^TG
   物理微粒子下降
   气分子结构多
   地下的东西
