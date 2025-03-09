@@ -1,52 +1,13 @@
 ﻿KDE
 KRT.FTN.RKB
+KENR&VRSK
 
-&VRSK:KRT.VTS
-
-KENR:LD-RC:HRK.RD 'MONGOLIAN$
-SLS&.ENK$ 
-  [TH^K] 
-  KA MI KW KAI KAO
-  [SH'K]
-  I1SP E2SY' 3S'V ^S4ZN 'PINYIN#
-  NKS&EXCH~T
-  
-  O;S;V;
-  (
-    KOREAN:HANGUL:NG'Y
-    NEDER NETHER OBER HOL DUTCH 'LAND
-  )
-  KBT&LBT~LAND.LENK
-  
-  (MLS:TLD-GLS)
-  (SNK@NLU&KD'NWR)
-  (KM7:LANK)
-  SPL
-    VWR,KZR "XINZAN'-ZHON'DON'
-  KTZ
-  
-  TRK:KOT~B-IRX-FTN
-  HNLX&KRX:ISK&RZT
-  
-  <KLS-TXK>
-  AZTK:ASNK-I
-  VSD.VRSD
-FTN:FLK:LST
-
-'O,R,C
-  vgs~vns:anem
-  GIN^JN'HIN  
-  CAIDE^KSR \\-KCX -T.F~ XTZ:KD7SZ
-  
-  ist:idx:KST'F KD:FSR
-  A.Y1.I.O.U
-  А.О.У.Ы.Э.Я.Ё.Ю.И.Е
-CRX
+WSK
 
 IIL
 HRF
   "束子:数字:胡夫 之间 金字塔
-  "镜妖照 三棱镜
+  "妖镜照 三棱镜
   I YL
   e E eY EY Ey "ANTI-ROTATE
   E Y I
@@ -88,7 +49,7 @@ S^TG
 "KONSONANT
 "N 辅音;辅音字母(B、K、D、F)
 "ADJ.与…一致的 符合的 相同的 和谐的
-(FLX.LAI~FLZ)
+OR^C&IRK(FLX.LAI~FLZ)
 RIEM^HY "RHYME
   KLUSTERS KONSONANT 
   KONSTITUTE
