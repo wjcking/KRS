@@ -32,6 +32,9 @@ TLS.TIK.TIS
 
 "HZH
 " TOY
+" KID
+" TFS
+" IDAOC
 " DEFENSE
 "TLSH
 -NDF
