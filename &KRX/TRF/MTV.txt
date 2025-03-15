@@ -4,9 +4,9 @@ TXH.MFS^EN
 MST
 MSD  
   MDY
-    MTK^A "ATMS
-    MCK^IN
     RCK.RKB
+    MTK^A
+    MCK^IN "ATMS
   MLS:KDKS
 MDS^Z.NGS
 
