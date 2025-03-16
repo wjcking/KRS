@@ -1,10 +1,9 @@
-﻿iank.trs
-itls.trk
-//itlr.tks.gts
+﻿trs.iank
+trk.itls
+//gts.itlr
 
-tsk 
-  //fks
-  //fgt
-  //ptk
-  //pls^trs.ch
-tks
+"fks fgt
+"ptk
+"pls^trenchs
+
+//tsk
