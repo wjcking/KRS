@@ -51,7 +51,7 @@ EXPE = ARM,VIRUS,PS =ALIENS, ARM,CCP,CCP
 CAA = F(∑C) Δ F(∑E) C = EXPA 
 EXPA = ARM,VIRUS,PS =ALIENS, ARM,CCP,CCP
 BZKLK//KARMA = TRUE FALSE
-PF =人感 或神话系统（多人学习形成） 化学因素 导致一个人或动物的直接命理关系
+PF =人约 或神话系统（多人学习形成） 化学因素 导致一个人或动物的之接命立关系
 LEVEL（ENERGY OR CHEMICAL ELEMENTS）猪 羊 素E6 E4 E2 EZ5 EZ1
 Δ = TRIANGLE-INTERWEAVING目前为三角关系、 数学符号推断中
 ENTERTAIN FUNCTION=F(EXPE Δ EXP(E6 E4 E2 EF5 EF1 EX)Δ EXPA)
