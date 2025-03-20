@@ -50,7 +50,8 @@ NATURAL BUILDING
 MUD HOUSE
 COB CLAY WALL
 干草 夯土
-防雨 袋 "摸具 土砖
+防水 袋 "摸具 土砖
+mineral pitch
 
 [WATER.PROOF:WET EXTERMINATE]
 家用打井 钻杆钻头 手压水泵  动水泵压水器
