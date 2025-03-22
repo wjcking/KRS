@@ -5,9 +5,7 @@
 	(RSH:insh~LNSH*ESH)
 	HSK.EXCH
 INTVS
-
-ESH
-	RSH
+  (RSH)
 		ASH^CH
 		ISBNLU:HZPNK
 		@NLU~BLS 

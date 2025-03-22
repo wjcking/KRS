@@ -1,24 +1,23 @@
 ﻿LANK
-//十子间 地出头^电 沦柯芹 分可切 
-//空间闪电  体申及兴 
-//束可^杜 像素 激光
+"十子尖 地处头^杉的, 分可切:沦柯芹
+"空尖杉的'  什体立兴
+"束可 激光 像素
 LSK
-  //AK.JSN
-  //TAK.INT
-  //TUK.LUK
-  //LNT.KAST 7
+  "AK.JSN
+  "TAK.INT
+  "TUK.LUK
+  "LNT.KAST 7
   
-  LVX
-  //米#若热木此 厄折
-  //水若但汝木 钍
+  "水若但汝钍:若米那以木&水米切木束
   AWGZHS
   FWRNZK
 
 	ARTZK
-	//FS:EF'W
-	//AE:AO:EMT.ASAK
-	//RC: REN.VESAID.DOWN 
-	//		CAL.VESAID.STICK&QUOTA            
-	//CK:KL
-	//IY
+	"FS:EF'W
+	"AE:AO:EMT.ASAK
+	"RC:REN.VESAID.DOWN 
+	"		CAL.VESAID.STICK&QUOTA            
+	"CK:KL
+	"IY
+	CRK.L
 INCT
