@@ -6,12 +6,14 @@ LSK
   "AK.JSN
   "TAK.INT
   "TUK.LUK
-  "LNT.KAST 7
+  "LN7ST'KAST 
   
   "水若但汝钍:若米那以木&水米切木束
-  AWGZHS
-  FWRNZK
-
+  QZS
+    AWGZHS
+    ~FWRNZK
+  GLZ
+  
 	ARTZK
 	"FS:EF'W
 	"AE:AO:EMT.ASAK

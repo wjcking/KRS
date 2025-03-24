@@ -38,7 +38,7 @@ M
 A 大写字母 啊 A
 T 下降 土 
   SOIL 骚 
-  EARTH 饿死 鹅 
+  EAR TH 饿死 鹅 
   S Z 蛇 娜妮
 S^TG
   物理微粒子下降
@@ -47,7 +47,7 @@ S^TG
   网上冲AOX~T
 
 "VOWEL!=STRIKTURE
-"KONSONANT
+K'MPOSITION|CONSONANT
 "N 辅音;辅音字母(B、K、D、F)
 "ADJ.与…一致的 符合的 相同的 和谐的
 OR^C&IRK(FLX.LAI~FLZ)

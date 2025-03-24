@@ -1,17 +1,17 @@
-VSD:NFS.JXS-XRT
+VSD:NFS.ZXS-XRT
 
 IN71S
-"INTVS
-"ИЧЕНС^Я
-"ЙЧИНС^Й
-  "QZS~ZTS
-  "  QTY.QTV
-  "  QUTYS^QJS:ELS*LXR
-  "LVX:LRX
-  "QYS
-"ИЧС^ЙН
+INTVS
+ИЧЕНС^Я
+ЙЧИНС^Й
+  ~QJS~ZTS
+    QTY.QTV:QYS
+    QUTYS^QZS:ELS*LXR
+    //LVX:LRX
+  GLZ;SFR^U
+ИЧС^ЙН
 
-TRK.TRT:TFS-S~
+TRK.TRT:TFS-S
 TRX:XRT-F:FTX-S
 
 ITYS
