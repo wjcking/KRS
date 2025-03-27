@@ -26,7 +26,13 @@ ADV.RTL ;TWINS^VMS
       AIKES LAOTW AXOLOTL|εύκολος
       SAIL'A MAN^D SALAMENDER "RONY'AN
         "&KRT.RKB-TLS:LDA-E
-        ;K7LD.KRS(CROCODILE|1RAIGTAI^O-ALLIGATOR;KROKODIL КРОКОДИЛ)
+        ;K7LD.KRS
+        (
+          CRO CO DILE
+          1RAI GTAI^O
+          ALL I GATOR
+          1RA TATIN'E
+        )
       MEX^S.GCO^K MEXIKAN 
 	  FLD
 	FLX
