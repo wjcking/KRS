@@ -4,11 +4,11 @@ IN71S
 INTVS
 ИЧЕНС^Я
 ЙЧИНС^Й
-  ~QJS~ZTS
+  ZTS
     QTY.QTV:QYS
     QUTYS^QZS:ELS*LXR
     //LVX:LRX
-  GLZ;SFR^U
+  QJS~GLZ;~SFR^U
 ИЧС^ЙН
 
 TRK.TRT:TFS-S

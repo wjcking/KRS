@@ -4,9 +4,7 @@ LSK
   "AK.JSN
   "TAK.INT
   "TUK.LUK
-  "LN7ST'KAST 
-  
-  
+  "LN7ST'KAST
   AWGZHS
   ~FWRNZK
   -QZS.GLZ
