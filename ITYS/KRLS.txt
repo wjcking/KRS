@@ -13,23 +13,39 @@ ITYS
 \\Α	Β	Γ		Ε	Ζ	Η	Θ	Ι	Κ	Λ	Μ	Ν	Ξ	Ο	Π	Ρ	Σ	Τ	Υ	Φ	Χ	Ψ	Ω
 \\LOWER CASE
 \\α	β	γ	δ	ε	ζ	η	θ	ι	κ	λ	μ	ν	ξ	ο	π	ρ	σ ς	τ	υ	φ	χ	ψ	ω
-IRAN^λ-SZI~SRT
- GREEK(E,A)
- FWSD[O]
- 1LAN'O([PERSIAN])SFDW
- <W(HO
-    MTV
- >)
-S:[HELEN]
-
-ANK^AGO&TKD.ENK
-KRTES.KEST
-
-MTV&KRT/VST/KRTES
-CHONOIC
-POLYRHYTHMS 
-  TAP 
-  METRONOME
-ETYMOLOGY
-GEOMARICT  
- 
+~ANK^AGO&TKD.ENK
+-RCl~lxr
+\\А, Б, В, Г, Д,
+\\Е, Ё, Ж, 
+\\З, И, Й, К, 
+\\Л, М, Н, 
+\\О, П,
+\\ Р, С, Т, У, 
+\\ Ф, Х, Ц, Ч, Ш, Щ, 
+\\ Ъ, Ы, Ь, Э, Ю,
+\\Я
+.
+  KRTES[HELEN]
+  IRAN^λ-SZI~SRT
+   GREEK(E,A)
+   FWSD[O]
+   1LAN'O([PERSIAN])SFDW
+   < W\
+     (H\
+       O\
+       MTV&KRT/VST/KRTES
+     >
+     ^
+     C
+      CHONOIC
+      POLYRHYTHMS 
+      TAP
+      METRONOME
+      ETYMOLOGY
+      GEOMARICT
+     ,]
+      
+   )
+   KEST
+:
+S.NK
