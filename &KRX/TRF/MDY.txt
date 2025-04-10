@@ -34,7 +34,7 @@ ADV.RTL ;TWINS^VMS
           ALL I GATOR
           1RA TATIN'E
         )
-      MEX^S.GCO^K MEXIKAN 
+      MEX^S.GCO^ MEXIKAN 
 	  FLD
 	FLX
 VGS
