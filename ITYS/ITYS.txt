@@ -1,7 +1,7 @@
 VSD:NFS.ZXS-XRT
 
 IN71S
-INTVS
+1NTVS
 ИЧЕНС^Я
 ЙЧИНС^Й
   ZTS

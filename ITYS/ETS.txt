@@ -16,9 +16,9 @@ INTVS
 	ECH^S
     	TIS
     	FALL#EN
-    	XA
     	PADA7:ПАДАТЬ
-    
+    	XA
+    	
     	E
     	HUNGRY
     	GALWONEI ГОЛОДНЫЙ

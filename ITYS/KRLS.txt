@@ -9,10 +9,10 @@ ITYS
 //O?SF;AN|K
 // 
 //&TSK:1vzd7 ZELD|TSV$TKS//KELYSTON
-\\UPPER CASE
-\\Α	Β	Γ		Ε	Ζ	Η	Θ	Ι	Κ	Λ	Μ	Ν	Ξ	Ο	Π	Ρ	Σ	Τ	Υ	Φ	Χ	Ψ	Ω
 \\LOWER CASE
 \\α	β	γ	δ	ε	ζ	η	θ	ι	κ	λ	μ	ν	ξ	ο	π	ρ	σ ς	τ	υ	φ	χ	ψ	ω
+\\UPPER CASE
+\\Α	Β	Γ		Ε	Ζ	Η	Θ	Ι	Κ	Λ	Μ	Ν	Ξ	Ο	Π	Ρ	Σ	Τ	Υ	Φ	Χ	Ψ	Ω
 ~ANK^AGO&TKD.ENK
 -RCl~lxr
 \\А, Б, В, Г, Д,
@@ -38,11 +38,11 @@ ITYS
      ^
      C
       CHONOIC
-      POLYRHYTHMS 
-      TAP
-      METRONOME
-      ETYMOLOGY
-      GEOMARICT
+        POLYRHYTHMS Phonetics 
+        TAP
+        METRONOME
+        ETYMOLOGY
+      GEOMATIC
      ,]
       
    )
