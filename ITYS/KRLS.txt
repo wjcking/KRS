@@ -5,7 +5,7 @@ ITYS
 //FWSD 
 // CRCET МЯГКИЙ PEDESTRIANS BORDOM
 // PUT THE EARTH INTO A SQUARE&KADERS
-// P T Z ES 1T W A F,Δ#
+// P T Z ES 1T W A: F,Δ#
 //O?SF;AN|K
 // 
 //&TSK:1vzd7 ZELD|TSV$TKS//KELYSTON
@@ -14,6 +14,22 @@ ITYS
 \\UPPER CASE
 \\Α	Β	Γ		Ε	Ζ	Η	Θ	Ι	Κ	Λ	Μ	Ν	Ξ	Ο	Π	Ρ	Σ	Τ	Υ	Φ	Χ	Ψ	Ω
 ~ANK^AGO&TKD.ENK
+  lor b1'r sml:sbl.msl
+  ka2f^e
+    ξ kx
+    Ν nlu
+  1nk
+    ;θsa:c
+    ;d
+    zh
+    1e:upsilon
+  lsh
+  #
+    x
+  zh
+  
+  ρ rho
+  
 -RCl~lxr
 \\А, Б, В, Г, Д,
 \\Е, Ё, Ж, 

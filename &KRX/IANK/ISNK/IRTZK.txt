@@ -30,6 +30,7 @@
 "PYRAMID:PYRIMIND
 "MTS.LNT:W(RICE)M:L(INHELIK:INTERIK)R
 "MES~O.PAO.TMA_IY.KSD_AO.LSHN_A
+“ΜΕΣΟ ΠΟDΑΜΊΑ^Τ 
 "RKS:RCS:MS#PATS&^LE_WO^X:VZAD^I TKZ
 素美儿
 	美索波的牙
@@ -42,7 +43,7 @@
 		希阿丝
 		波地丝^卡
 		"约特水
-	派体丝	
+	派体丝
 丝纶克
 
 巴比伦 
