@@ -1,0 +1,12 @@
+ITN
+
+RTL~RTS
+FXS
+  ;FS'U~FSN
+    ;DFS
+      ;DFY'I:A1DZ:DFW
+    ;DFZ
+    ;DFC
+    ;TFC
+  FSH
+FTN
