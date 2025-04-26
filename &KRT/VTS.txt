@@ -19,7 +19,7 @@ $ FKS
 O SZI:KRS~FSK
 
 % PST.KNT
-  @ NLU:ISNK    
+  @ NLU:ISNK
     NR.BK:KZR
     ~ N:M
   Q :EO
@@ -50,7 +50,7 @@ O SZI:KRS~FSK
           WET^R
         ANW^K
       ]
-      O %.O
+      Q %.Q
   >
 *	LXR LXA LXY
 _ NSK-TZH'WA
