@@ -2,7 +2,7 @@ VASAID
 
 SLS& 'MONGOLIAN
   LDST-L'QSC^LUCK:LUZCS
-  v<HXS>
+  V<HXS>
     "E~S-H
     "TXH~ЧZT'H "471074+N#
     ,车失折氏柯:米卡孜'泽
@@ -14,7 +14,7 @@ SLS& 'MONGOLIAN
     ZH
   ^
   
-  dzp:ksp-ksd
+  DZP:KSP-KSD
   XFT 
     KA MI^K1 KW KAI KAO
     JA:JU:JO ~NGO
@@ -27,7 +27,7 @@ SLS& 'MONGOLIAN
   |(SNK@NLU
   |)KM7&KD@NR(A1TI^K<M1T|
   VWR "XYN'JAN' 
-    v^+
+    V^+
       SPL:S^TG 'ZHON'Y
       HSK:TRK:A('ZHON'DON)
     ~-~
