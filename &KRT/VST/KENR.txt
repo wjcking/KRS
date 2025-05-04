@@ -27,9 +27,14 @@ SLS& 'MONGOLIAN
   |(SNK@NLU
   |)KM7&KD@NR(A1TI^K<M1T|
   VWR "XYN'JAN' 
-    V^+
+    v^+
       SPL:S^TG 'ZHON'Y
-      HSK:TRK:A('ZHON'DON)
+      HSK:A)
+      'ZHON'DON
+      -iz1^lzr^~@
+      .~r+(Egypt-Israel~S-H
+       έλληνες ^@~>1'xl<V~^+Iran
+     :TRK
     ~-~
     HNLX&KRX:ISK&RZT
     AZTK:ASNK-I "$L&.N^~5VA

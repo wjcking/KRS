@@ -1,4 +1,4 @@
-//o~f.s.t fn:itn~w:unknown^kg
+//o~f.s.t fn:itn~w^kg:unknown
          
 kds~kde.lank
 
@@ -28,12 +28,11 @@ kct //~vzs
   WZN^THN:E
     KDE:MZT.EXTH
     WZN.CHN
-      KZR L+@5W'X1,L'A "《邋遢大王奇遇记》
+      KZR 《邋遢大王奇遇记》
       
     WZN.CHWN
-  1.0x^@+xbk,nGlish-VZN~CHN
-  
-  |^<
+  ^1,nGlish-VZN~CHN
+    
   [ZXS~T.NFS:EXTH]
   xiaoteji shotking switch wxh
   PID:KD DERIVATIVE GAIN 0.05 F-KANZD //500.faiw.five.year
