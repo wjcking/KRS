@@ -7,12 +7,12 @@ LDSK
 , MOLES MOLHADO ВЛАЖНЫЙ MOUILLÉ
 , WA1TΛOFF DEHUMIDI^T1~FICATION ОСУШЕНИЕ
 : 7@'
-,MEN:DWOSA^CA
+,MEN:DWOSA*CA
 /M'D\
 IY,NI
 \H'K/
 
-"1^lsh:C'TO_L1~Z
+^1sh:C'TO_L1~Z
 ,H'K'
 X'H'K 
 Y1'U~E
