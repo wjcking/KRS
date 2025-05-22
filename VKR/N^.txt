@@ -6,18 +6,18 @@ r-vkr.nks.exch~xtlk
 .S
 
 ^c
-.e
-  +# &^*
+
   l-
     ^~p
     z.1.q
-    
+
     f
     vv'5 @
     +
   &~^
-  
-  a
+  .  +# &^*
+  -e
+  -a
 .r
 
 n
