@@ -6,35 +6,24 @@ ADV.RTL ;TWINS^VMS
   ;SLD'DEN
 	FLC.FSH^X
 		FBN^D
-		  
-      WEBSTER:VAIBESTR:O*
+		  'FNS:1LAN' 'AΛRAN [l~1-H-LV'I]LWN_N1ILC
+      WEBSTER:VAIBESTR:O*H'
         УТКОНОС PLATYPUS W
         OCTOPUS OPTIMUS
 		  ~WTLANWOS
 		  
+      TIBERIUM SHINK.zh'nora.D-TCH
 		  RFT:SRT&XRK-XFS:KRF:PST
-      FXS@FCH(SAY:VCT-K)
+      FXS@FCH(SAY:VCT-K)~z&Ac
         MERCURY
           INF:AMPHIBIANS:IMF
           FWTV^YAN'Q
-            FABULOUS|SHALLOW;FUNDEL;SHADOW@FUNNEL'
+            |FABULOUS
+            SHALLOW;FUNDEL;
+            SHADOW@FUNNEL'
           AS7^I:LS7
         SILVER:SILVA~K
 		  RCS(CAN DRINK NO)
-		  
-      "VGES-VNS
-      'FNS:1LAN' 'AΛRAN [l~1-H-LV'I]LWN_N1ILC 
-      AIKES LAOTW AXOLOTL|ΕΎΚΟΛΟΣ
-      ;SAIL'A MAN^D SALAMENDER "RONY'AN
-        "&KRT.RKB-TLS:LDA-E
-        ;K7LD.KRS
-        (
-          CRO CO DILE
-          1RAI GTAI^O
-          ALL I GATOR
-          1RA TATIN'E
-        )
-      MEX^S.GCO^ MEXIKAN 
 	  FLD
 	FLX
 VGS
