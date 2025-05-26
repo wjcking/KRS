@@ -14,16 +14,17 @@ ADV.RTL ;TWINS^VMS
 		  
       TIBERIUM SHINK.zh'nora.D-TCH
 		  RFT:SRT&XRK-XFS:KRF:PST
-      FXS@FCH(SAY:VCT-K)~z&Ac
+      FXS@FCH(SAY:VCT-K)~z&^c
         MERCURY
           INF:AMPHIBIANS:IMF
           FWTV^YAN'Q
             |FABULOUS
             SHALLOW;FUNDEL;
+            ;H'2'Q'N
             SHADOW@FUNNEL'
           AS7^I:LS7
         SILVER:SILVA~K
-		  RCS(CAN DRINK NO)
+		  RCS(DRINK NO CAN)
 	  FLD
 	FLX
 VGS

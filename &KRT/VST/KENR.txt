@@ -18,7 +18,7 @@ SLS& 'MONGOLIAN
   XFT 
     KA MI^K1 KW KAI KAO
     JA:JU:JO ~NGO
-    YA:YU:YO ~NGO^Y^1sh
+    YA:YU:YO ~NGO^Y^1sh'^
     I1SP E2SY' 3S'V ^S4ZN 'PINYIN#KTC
   TFC
   
