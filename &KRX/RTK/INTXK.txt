@@ -61,21 +61,21 @@ MINERAL PITCH TAR OIL
  
 热水棒 加热棒 迷你热水器 "电热水龙头 即热式小厨宝  冲凉宝 
 
-[拼接方块毯~玻璃桌面@GLASS]
+[拼接方块毯 "TZH-GLASS]
 PSK:METHANOL GASOLINE OIL FUEL
 ILAIK.THNIK
 MINER MAGNETIC FIELD
-迷你发电机
+迷你发电机 "noise off
 迷你特斯拉充电 
 无线充电 
 
-风光互补太阳能 PSH-LINE:25 50 100 METER
-移动电源220V便携 ITEM.JD.COM/10049382155917.HTML#NONE
+"风光互补太阳能 PSH-LINE:25 50 100 METER
+"移动电源220V便携 ITEM.JD.COM/10049382155917.HTML#NONE
 
-ROBOT VACUUM CLEANER
-空气净化器 空气干燥机
-扫地机器人
-ENTRANS EXIT"遮挡 
+"ROBOT VACUUM CLEANER
+"空气净化器 空气干燥机
+"扫地机器人
+"ENTRANS EXIT"遮挡 
 
 [模具:桶 长方 烤:移动]
 CLAY STOVE "CAST SMOKELESS
