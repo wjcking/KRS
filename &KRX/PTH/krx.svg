@@ -304,16 +304,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0747123"
-     inkscape:cx="455.47073"
-     inkscape:cy="314.96801"
+     inkscape:cx="153.52946"
+     inkscape:cy="299.14983"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1858"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1850"
+     inkscape:window-height="1055"
+     inkscape:window-x="63"
+     inkscape:window-y="-7"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0"
      units="mm"
@@ -589,28 +589,24 @@
          x="224.63612"
          id="tspan8"
          sodipodi:role="line">A</tspan></text>
-    <g
-       id="g1"
-       transform="translate(-5.1699883,-2.2157093)">
-      <path
-         id="path1-4"
-         style="fill:#f9f9f9;stroke:#000000;stroke-width:0.682306;stroke-dasharray:none"
-         inkscape:transform-center-x="3.8118782"
-         inkscape:transform-center-y="-0.0791484"
-         d="M 52.603019,29.296177 60.500977,42.659222 52.877229,56.180594 37.355529,56.33894 29.457552,42.975896 37.0813,29.454524 Z" />
-      <text
-         xml:space="preserve"
-         style="font-size:8.68342px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.407039"
-         x="31.972519"
-         y="51.738167"
-         id="text2-2"
-         transform="scale(1.1346169,0.88135476)"><tspan
-           sodipodi:role="line"
-           id="tspan2"
-           style="fill:#000000;stroke:#000000;stroke-width:0.407039"
-           x="31.972519"
-           y="51.738167">SRD</tspan></text>
-    </g>
+    <path
+       id="path1-4"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.38;stroke-dasharray:none"
+       inkscape:transform-center-x="3.8118782"
+       inkscape:transform-center-y="-0.0791484"
+       d="m 50.633499,24.12619 7.897958,13.363044 -7.623748,13.521373 -15.5217,0.158346 -7.897977,-13.363045 7.623748,-13.521371 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.5978px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.35615"
+       x="29.23385"
+       y="45.477566"
+       id="text2-2"
+       transform="scale(1.1346169,0.88135476)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#000000;stroke:#000000;stroke-width:0.35615"
+         x="29.23385"
+         y="45.477566">NGO</tspan></text>
     <path
        id="path40"
        style="fill:#f2f2f2;stroke:#4d4d4d;stroke-width:0.4;stroke-dasharray:none"
