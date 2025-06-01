@@ -1,4 +1,4 @@
-&~Я^.VASID
+&~Я^
 
 SLS& 'MONGOLIAN
   LDST-L'QSC^LUCK:LUZCS
@@ -13,20 +13,20 @@ SLS& 'MONGOLIAN
       Z "T10
     ZH
   ^
-  
+
   DZP:KSP-KSD
-  XFT 
+  XFT
     KA MI^K1 KW KAI KAO
     JA:JU:JO ~NGO
     YA:YU:YO ~NGO^Y^1sh'^
     I1SP E2SY' 3S'V ^S4ZN 'PINYIN#KTC
   TFC
-  
+
   |(TLD-GLS
   |(MLS&MST,UZK
   |(SNK@NLU
   |)KM7&KD@NR(A1TI^K<M1T|
-  VWR "XYN'JAN'
+  VASID "XYN'JAN'.VWR
     v^+
       SPL:S^TG 'ZHON'Y
       HSK:A)
@@ -35,7 +35,7 @@ SLS& 'MONGOLIAN
       .~r+(Egypt-Israel~S-H
        έλληνες ^@~>1'xl<V~^+Iran
      :TRK
-    ~-~
+    ~1~
     HNLX&KRX:ISK&RZT
     AZTK:ASNK-I "$L&.N^~5VA
     SKT-LBT<SRT-KZR>
