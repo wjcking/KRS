@@ -73,8 +73,7 @@ MINER MAGNETIC FIELD
 
 "ROBOT VACUUM CLEANER
 "空气净化器 空气干燥机
-"扫地机器人
-"ENTRANS EXIT"遮挡 
+"EXIT 扫地机器人 ENTRANS "遮挡 
 
 [模具:桶 长方 烤:移动]
 CLAY STOVE "CAST SMOKELESS
