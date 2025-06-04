@@ -2,12 +2,12 @@ ITL^TRS
 ITYS
 
 \\TSO VSO TOT;
-//FWSD 
+//FWSD
 // CRCET МЯГКИЙ PEDESTRIANS BORDOM
 // PUT THE EARTH INTO A SQUARE&KADERS
 // P T Z ES 1T W A: F,Δ#
 //O?SF;AN|K
-// 
+//
 //&TSK:1vzd7 ZELD|TSV$TKS//KELYSTON
 \\LOWER CASE
 \\α	β	γ	δ	ε	ζ	η	θ	ι	κ	λ	μ	ν	ξ	ο	π	ρ	σ ς	τ	υ	φ	χ	ψ	ω
@@ -27,41 +27,33 @@ ITYS
   #
     x
   zh
-  
+
   ρ rho
-  
+
 -RCl~lxr
 \\А, Б, В, Г, Д,
-\\Е, Ё, Ж, 
-\\З, И, Й, К, 
-\\Л, М, Н, 
+\\Е, Ё, Ж,
+\\З, И, Й, К,
+\\Л, М, Н,
 \\О, П,
-\\ Р, С, Т, У, 
-\\ Ф, Х, Ц, Ч, Ш, Щ, 
+\\ Р, С, Т, У,
+\\ Ф, Х, Ц, Ч, Ш, Щ,
 \\ Ъ, Ы, Ь, Э, Ю,
 \\Я
-.
-  KRTES[HELEN]
-  IRAN^λ-SZI~SRT
-   GREEK(E,A)
-   FWSD[O]
-   1LAN'O([PERSIAN])SFDW
-   < W\
-     (H\
-       O\
-       MTV&KRT/VST/KRTES
-     >
-     ^
-     C
-      CHONOIC
-        POLYRHYTHMS Phonetics 
-        TAP
-        METRONOME
-        ETYMOLOGY
-      GEOMATIC
-     ,]
-      
-   )
-   KEST
-:
-S.NK
+.:
+KRTES[HELEN]
+IRAN^λ-SZI~SRT
+GREEK(E,A)
+FWSD[O]
+1LAN'O([PERSIAN])SFDW
+  W\
+   (H\
+     O\________________
+      MTV&KRT/VST/KRTES
+
+C>|(UK)
+CHONOIC
+ POLYRHYTHMS Phonetics TAP
+ METRONOME
+ ETYMOLOGY
+GEOMATIC
