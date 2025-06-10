@@ -1,27 +1,7 @@
-&~Я^
+VRST
 
 SLS& 'MONGOLIAN
-  LDST-L'QSC^LUCK:LUZCS
-  V<HXS>
-    "E~S-H
-    "TXH~ЧZT'H "471074+N#
-    ,车失折氏柯:米卡孜'泽
-    T.C,Q
-    S.E
-      K
-      Я "71N10
-      Z "T10
-    ZH
-  ^
-
-  DZP:KSP-KSD
-  XFT
-    KA MI^K1 KW KAI KAO
-    JA:JU:JO ~NGO
-    YA:YU:YO ~NGO^Y^1sh'^
-    I1SP E2SY' 3S'V ^S4ZN 'PINYIN#KTC
-  TFC
-
+ 
   |(TLD-GLS
   |(MLS&MST,UZK
   |(SNK@NLU
@@ -39,7 +19,23 @@ SLS& 'MONGOLIAN
     "HNLX&KRX:ISK&RZT
     AZTK:ASNK-I "$L&.N^~5VA
     "SKT-LBT<SRT-KZR>
-  -FTN~DNS-KQT~B-IRX
+  W~S-DNC-IRX~NFT "-K&T.VTS
+  
+  V<HXS>
+    "E~S-H
+    "TXH~ЧZT'H "4710F4+N#
+    T.C,Q
+    S.E
+      K
+      Я "71N10
+      Z "T10
+    ZH
+  ^PDZ:PSK TFX-KSD-7TC
+  JA:JU:JO ~NGO *-7|Я^cl_nu
+  YA:YU:YO ~NGO^Y^1sh'^
+  KA MI^K1 KW KAI KAO
+  LDSK-L'QSC^LUCK-LUZ
+  I1SP E2SY' 3S'V ^S4ZN 'KTC PIU#N,Y
 ENK$
 
-&VRSK:KRT.VTS
+&~Я^:KRT
