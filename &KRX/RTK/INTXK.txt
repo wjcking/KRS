@@ -1,10 +1,10 @@
-﻿~COLOR:Spain
-TZH.PSH:CONCRETE:DUBAI +^--N1
-
+﻿~TZH
+-PSH:CONCRETE:DUBAI +^--N^~5VA1
 DECORATION:УКРА.ШЕНИЕ^ИЧЕНС
 WATER.PROOF:WET.EXTERMINATE
 
-NFT "MSK LOCATION
+COLOR~Españlu
+NFT~-.V"MSK LOCATION
 VNS
   COMPANY
     HOSPITAL
@@ -76,7 +76,7 @@ MINER MAGNETIC FIELD
 "空气净化器 空气干燥机
 "EXIT 扫地机器人 ENTRANS "遮挡 
 
-[模具:桶 长方 烤:移动]
+[模具迷你:桶 长方 烤:移动]
 CLAY STOVE "CAST SMOKELESS
 自制 炉 两用 "柴汽煤
 多功能无烟折叠灶野炊炉

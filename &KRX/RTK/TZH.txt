@@ -35,5 +35,5 @@ NDF
   ^
   NFT
 NFS
-~
-XTS
+
+XTS~WZS-N

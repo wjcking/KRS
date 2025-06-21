@@ -1,41 +1,34 @@
-VRST
+VRSD "+~Я^
 
-SLS& 'MONGOLIAN
+&^V ,SLS$ENK
  
-  |(TLD-GLS
-  |(MLS&MST,UZK
-  |(SNK@NLU
-  |)KM7&KD@NR(A1TI^K<M1T|
-  VASID "XYN'JAN'.VWR
-    v^+
-      SPL:S^TG 'ZHON'Y
-      HSK:A)
-      'ZHON'DON
-      -iz1^lzr^~@
-      .~r+(Egypt-Israel~S-H
-       έλληνες ^@~>1'xl<V~^+Iran
-     :TRK
-    ~1~
-    "HNLX&KRX:ISK&RZT
-    AZTK:ASNK-I "$L&.N^~5VA
-    "SKT-LBT<SRT-KZR>
-  W~S-DNC-IRX~NFT "-K&T.VTS
+|>TLD-GLS
+|>MLS&MST,UZK
+|>SNK@NLU
+VASID "XYN'JAN'.VWR
+  v^+
+    SPL //S^TG
+    'ZHON'Y
+    'ZHON'DON
+    HSK
+    ~l' "έλληνες 
+      ^@~
+      <M1T.A1TI^K>|'xl<V~^+Iran      
+      -iz1^lzr^~@KD@NR
+    &lnl')-Israel.Egypt
+  KRT
+  "HNLX&KRX:ISK&RZT
   
-  V<HXS>
-    "E~S-H
-    "TXH~ЧZT'H "4710F4+N#
-    T.C,Q
-    S.E
-      K
-      Я "71N10
-      Z "T10
-    ZH
+  "SKT-LBT
+  |>SRT-KZR<
+  AZTK:ASNK-I 
+W~S-DNC-IRX~NFT "-K&T.VTS
+
+'+7-l "LQSC-^LUCK-LUZ
+  "TXK:T.C,Q:S.E >KЯZ<ZH
   ^PDZ:PSK TFX-KSD-7TC
-  JA:JU:JO ~NGO *-7|Я^cl_nu
+  JA:JU:JO ~NGO *-7|Я^cl_nu"$L&.N
   YA:YU:YO ~NGO^Y^1sh'^
   KA MI^K1 KW KAI KAO
-  LDSK-L'QSC^LUCK-LUZ
-  I1SP E2SY' 3S'V ^S4ZN 'KTC PIU#N,Y
-ENK$
-
-&~Я^:KRT
+  I1SP E~2SY' 3S'V ^S4ZN
+KTU--PINY
