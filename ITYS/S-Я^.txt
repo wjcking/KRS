@@ -1,14 +1,8 @@
 ITL^TRS
 ITYS
-
-\\TSO VSO TOT;
-//FWSD
-// CRCET МЯГКИЙ PEDESTRIANS BORDOM
-// PUT THE EARTH INTO A SQUARE&KADERS
-// P T Z ES 1T W A: F,Δ#
-//O?SF;AN|K
-//
-//&TSK:1vzd7 ZELD|TSV$TKS//KELYSTON
+ W A: F,Δ#
+\\TSO VSO TOT;//&TSK:1vzd7 ZELD|TSV$TKS
+//Ж
 \\LOWER CASE
 \\α	β	γ	δ	ε	ζ	η	θ	ι	κ	λ	μ	ν	ξ	ο	π	ρ	σ ς	τ	υ	φ	χ	ψ	ω
 \\UPPER CASE
@@ -45,13 +39,18 @@ KRTES[HELEN]
 IRAN^λ-SZI~SRT
 GREEK(E,A)
 FWSD[O]
-1LAN'O([PERSIAN])SFDW
-  W\
-   (H\
-     O\________________
-      MTV&KRT/VST/KRTES
+1LAN'O([PERSIAN])SFD
 
-C>|(UK)
+  W\LADY.SOLID.ASWOPE
+   H\(AST-K.LDXC>|(UK)
+     O\ISK.WSTV.WRZT$
+       \___________MTV___
+
+//FWSD
+// CRCET МЯГКИЙ PEDESTRIANS BORDOM
+// PUT THE EARTH INT A SQUARE&KADERS
+// P T Z ES 1TO
+//O?SF;AN|K
 CHONOIC
  POLYRHYTHMS Phonetics TAP
  METRONOME
