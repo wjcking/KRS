@@ -1,58 +1,22 @@
 ITL^TRS
 ITYS
- W A: F,Δ#
-\\TSO VSO TOT;//&TSK:1vzd7 ZELD|TSV$TKS
-//Ж
-\\LOWER CASE
-\\α	β	γ	δ	ε	ζ	η	θ	ι	κ	λ	μ	ν	ξ	ο	π	ρ	σ ς	τ	υ	φ	χ	ψ	ω
-\\UPPER CASE
-\\Α	Β	Γ		Ε	Ζ	Η	Θ	Ι	Κ	Λ	Μ	Ν	Ξ	Ο	Π	Ρ	Σ	Τ	Υ	Φ	Χ	Ψ	Ω
-~ANK^AGO&TKD.ENK
-  lor b1'r sml:sbl.msl
-  ka2f^e
-    ξ kx
-    Ν nlu
-  1nk
-    ;θsa:c
-    ;d
-    zh
-    1e:upsilon
-  lsh
-  #
-    x
-  zh
 
-  ρ rho
+,TSO VSO TOT;,O?SF;AN|K
+,&TSK:1vzd7 ZELD|TSV$TKS
+,Ж~ANK^AGO&TKD.ENK
+W A: F,Δ#
 
--RCl~lxr
-\\А, Б, В, Г, Д,
-\\Е, Ё, Ж,
-\\З, И, Й, К,
-\\Л, М, Н,
-\\О, П,
-\\ Р, С, Т, У,
-\\ Ф, Х, Ц, Ч, Ш, Щ,
-\\ Ъ, Ы, Ь, Э, Ю,
-\\Я
-.:
-KRTES[HELEN]
+-lxl~
+W\LADY.SOLID.ASWOPE  /Л
+ H\(AST-K.LDXC>|(UK)/С
+   O\ISK.WSTV.WRZT$/Я
+     \________MTV_/
+
+, CRCET МЯГКИЙ PEDESTRIANS BORDOM
+, PUT THE EARTH INT A SQUARE&KADERS
+, P T Z ES 1TO
+]FWSD[
+1LAN'O)PERSIAN(SFD
 IRAN^λ-SZI~SRT
 GREEK(E,A)
-FWSD[O]
-1LAN'O([PERSIAN])SFD
-
-  W\LADY.SOLID.ASWOPE
-   H\(AST-K.LDXC>|(UK)
-     O\ISK.WSTV.WRZT$
-       \___________MTV___
-
-//FWSD
-// CRCET МЯГКИЙ PEDESTRIANS BORDOM
-// PUT THE EARTH INT A SQUARE&KADERS
-// P T Z ES 1TO
-//O?SF;AN|K
-CHONOIC
- POLYRHYTHMS Phonetics TAP
- METRONOME
- ETYMOLOGY
-GEOMATIC
+KRTES[HELEN],FWSD
