@@ -10,7 +10,7 @@ FST
 *NO:ENK
 *NOT^AO:ZNK:LCK
 *KAST!TANK~TRF
-*<#HLKT.KZT.FBK> 
+*<#HLKT.KZT.FBK>
 */
 KLZ
 	FKS:TLZ
@@ -21,10 +21,9 @@ KLZ
 	LNK
 		KZLZ:KZT
 		KEZ*ISLS:KZR
-		
+
 		VKE~LSD.KVT
-			TZH'L
-			NSK
+			TZH'L			
 		~XRT
 	ENK
 KMT
