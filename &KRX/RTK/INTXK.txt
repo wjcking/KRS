@@ -1,9 +1,8 @@
 ﻿~TZH:RTK
--PSH:CONCRETE
+-PSH:CONCRET~E
 DECORATION:УКРА.ШЕНИЕ^ИЧЕНС
 WATER.PROOF:WET.EXTERMINATE
 
-COLOR~ESPAÑLU "DUBAI +^--N^~5VA1
 NFT~-.V"MSK LOCATION
 VNS
   COMPANY
@@ -16,81 +15,5 @@ KRL
 
 KRTES.KEST&WZN.CHWN
 
-遮挡 挡风布 挡风 防风 "户外板屏
-工作服 
-工铲 ~木抹子
-手锯
-
-~电钻
-~木工凿
-~木工胶白乳胶
-~木梁连接件
-~夹芯彩钢板
-
-(FWCH:CHWAFO.PWRWF)
-通风口:通风球 冬瓜散热器  
-  排风管通风管
-  排风口帽
-橱窗通风抽风机
-
-KRT:$VLZ.ZXS:HURISTK
-RKB~LWZKE!LIGHT:NARROW~BEAM:SQUEEZE$SKR
-WWW.HKZNL.COM/PRODUCT/ 
-采光
-  采光罩
-  圆形天窗
-  采光球:光导管
-  导光筒 
-	排烟
-防水
-
-|(DAIKO.RASHN:УКРА.ШЕНИЕ^ИЧЕНС
-NATURAL BUILDING
-MUD HOUSE
-COB CLAY WALL
-干草 夯土
-防水 袋 "摸具 土砖
-MINERAL PITCH TAR OIL
-
-
-7-'Cl
-家用打井 钻杆钻头 手压水泵  动水泵压水器
-水箱储水
-化粪桶 排水管防 下水管
-坐便椅
-
-热水棒 加热棒 迷你热水器 "电热水龙头 即热式小厨宝  冲凉宝 
-
-|(拼接方块毯 剑 粗M'
-PSK:METHANOL GASOLINE OIL FUEL
-ILAIK.THNIK
-MINER MAGNETIC FIELD
-迷你发电机 "NOISE OFF
-迷你特斯拉充电 
-无线充电 
-
-"风光互补太阳能 PSH-LINE:25 50 100 METER
-"移动电源220V便携 ITEM.JD.COM/10049382155917.HTML#NONE
-
-~ROBOT VACUUM CLEANER
-~空气净化器 空气干燥机
-~EXIT 扫地机器人 ENTRANS "遮挡 
-
-|(模具迷你移动:桶 烤
-CLAY STOVE "CAST SMOKELESS
-自制 炉 两用 "柴汽煤
-多功能无烟折叠灶野炊炉
-
-米粉机
- 米粉 讲抱超
- 米长 
- 米糕 
-电动和面机
-美的（MIDEA）面条机
-
-电视天线
-"16K OLED 3D  170 inch "laser
-
-
-DEPTHPOWER ITEM.JD.COM/10021668728668.HTML
-滑板车
+COLOR~ESPAÑLU "DUBAI +^--N^~5VA1
+MINI,MOBILIZE

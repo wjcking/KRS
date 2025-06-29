@@ -1,31 +1,22 @@
-﻿NTS.ITLS
-&ITS'X
-	FKS^LKS
-	ATB:RZK:ATSK
-	(RSH:insh~LNSH*ESH)
-	HSK.EXCH
-INTVS
-  (RSH)
-		ASH^CH
-		ISBNLU:HZPNK
-		@NLU~BLS 
+﻿ITS'INTVS
+FKS^LKS
+ATB:RZK:ATSK
 
-		ACHS_ESH
-		LNCH:RNSH
-		ELS:LSH.IN.ESH.LN
-	ECH^S
-    	TIS
-    	FALL#EN
-    	PADA7:ПАДАТЬ
-    	XA
-    	
-    	E
-    	HUNGRY
-    	GALWONEI ГОЛОДНЫЙ
-		MUTWL
-		MSL^KS
-		ECH^S
-		HSH
-		LBT:HLSH.NSH
-	TXK
+ECH^S
+  FALL#EN
+  PADA7:ПАДАТЬ
+  XA
+  TIS
+  
+  GALWONEI ГОЛОДНЫЙ
+  HUNGRY
+  E
+ASH^CH
+
+"ACHS_ESH
+"LNCH:RNSH
+"ELS:LSH.IN.ESH.LN
 INSH
+  
+NTS.ITLS
+insh~LNSH*ESH:RSH

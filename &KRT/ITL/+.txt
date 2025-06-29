@@ -1,6 +1,6 @@
 itl:wzs
 
 -7~
-c+*
+c+* "L
 cnx "MUT
 ~

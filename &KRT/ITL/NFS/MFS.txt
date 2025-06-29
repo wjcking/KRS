@@ -37,7 +37,7 @@ PAT.RDF:FUG
 //DPT^A:PATIKO:RMW
 BMD:EOT.DOT
 -LINE
-  USB:TYPE-A,B,C
+  USB
     //PS2 
     //LPT
     //VGA
