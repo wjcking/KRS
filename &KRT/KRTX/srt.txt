@@ -7,7 +7,7 @@
 " ALSAMLADW ALZAMALA DWNANGVL TUNAZAM
 " FRIENDLY SHIP FELLOW SHIP
 " FRATERNITY ASSOCIATION 
-"	德瑞斯利伊&联谊
+"	德瑞斯利'伊
 "
 "赛德环境检测
 "	赛德海泱检测
@@ -24,7 +24,7 @@
 		经立
 		"hinlche~', ch sh
 		"@nlu
-    "ANGINLIN' zh
+    "ANGIN~LIN,+ zh
       "BADGE R ABZEICHEN ЗНАЧОК
       "BEAV ER
       "AVALAN REVENUE
@@ -40,7 +40,7 @@
 	英有
 	
   妍发
-    声像 异像 语言 
+    声像 语言 异像
     空间 气象 海泱
   妤乐
 

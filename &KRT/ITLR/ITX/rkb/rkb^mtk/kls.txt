@@ -1,10 +1,7 @@
 ﻿abs:arst^k.ltlrs
-
+  
+wts
 mtk^s
-  nks
-  atbs
-  wts
-trk^h
 
 kls^r.lbt
 r
@@ -23,3 +20,5 @@ t.l
 
   trk:krt.lbt.rl
 d.l
+
+trk^h

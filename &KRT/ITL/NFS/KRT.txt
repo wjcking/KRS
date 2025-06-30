@@ -2,20 +2,19 @@
 
 KLD
 	LNK^TH
-  KLN.PLS_DR
-  KR^TK_EA^L //KERIKET ADD
-    ISK.BRS//MSAIK KAN'
-    ~RDF~LSK //M'AO DIFAI
-
+  KLN~PLS
+  KRT^+ "KERIKET ADD
+    ISK.BRS  "MSAIK KAN'
+    RDF~LSK  "M'AO DIFAI
     MLK
   KLT
 
-  BT#SH LST.ATRZK
+  BT#SH
     BDS^A
   BDS^R
 
   KTN.RSK^T
-    //DLT^B
-    //RLS'E
+    "DLT^B
+    "RLS'E
   LCK
 TRK

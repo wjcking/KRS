@@ -24,9 +24,9 @@ BMD
 
 "MAINBOARD.ABERIS.ABEDS.BAODE.MANINLYS
 BMD:INT.PIT
-  TSL~LINE:PSH "JMP PCL COM
+  TSL:PSH~LINE JMP PCL COM
 
-  CPU //PIT@  
+  CPU //PIT@
     ADO
     VDO
     HDK 
@@ -41,7 +41,7 @@ BMD:EOT.DOT
     //PS2 
     //LPT
     //VGA
-  ~ 
+  ~
 +WIFI
 
 POT
