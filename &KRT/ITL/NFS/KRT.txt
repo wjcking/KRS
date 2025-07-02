@@ -4,17 +4,17 @@ KLD
 	LNK^TH
   KLN~PLS
   KRT^+ "KERIKET ADD
-    ISK.BRS  "MSAIK KAN'
+    ISK.BRS  "MSK'
     RDF~LSK  "M'AO DIFAI
     MLK
   KLT
 
   BT#SH
-    BDS^A
+    BDS@
   BDS^R
 
   KTN.RSK^T
-    "DLT^B
-    "RLS'E
+    "DLT
+    "RLS
   LCK
 TRK

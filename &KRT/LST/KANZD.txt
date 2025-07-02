@@ -31,7 +31,7 @@ KNT^ALN
 	3+3+3+3 -= 12 IXR:ITR AXL EXCH
 	3*3*3*3 ~= 81 BKL
 	
-	[#IXB^N#IBE2SH7]
+	[#IXB#IBE2SH7]
   L+^Z 12^SH
   S+4 =- 7~L
   3*4 =~ 12E "THY1^E K~T:D EA CH ALL S 

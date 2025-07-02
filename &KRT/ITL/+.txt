@@ -1,7 +1,7 @@
 itl:wzs
 
--7~
+F--
 c+* "L
 cnx "MUT
--cln "F
+-cln "7
 ~
