@@ -1,8 +1,6 @@
 ﻿微粒子
   气味 信息素	
-  声控类似于设备 细胞结构图  
-  //https://transition-b89.pages.dev/
-  //http://foxcodex.html.xdomain.jp/index.html
+  声控类似于设备 细胞结构图
   动态图行元素表:柯立的
 传感器
 
@@ -17,4 +15,4 @@ Velocity.js
 
 //小卖部 WIFI 196007100424
 //gdm.locate
-//小区 运动器材 老人听得歌曲 地下
+//小区 运动器材 l'@人听得歌曲 地下
