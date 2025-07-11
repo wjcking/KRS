@@ -27,7 +27,7 @@ TENDER "МЯГКИЙ~RIKI^GST
     TRANS.PARENT    
       KE^RI^RWU SDASHN
       CRUSTACEAN
-      "Z*Q'7 AORNZH
+      *Zq7 AORNZH
         Cystisoma
         Tsistisoma
         znxs^q@c swoma      
@@ -37,7 +37,7 @@ TENDER "МЯГКИЙ~RIKI^GST
     TRAN#SIST->OR<
 RENDER
 
-"CHAFWO:SMAZR~SMOTHER^ETS
+"CHAFWO:SMAZR~SMOTHER "ETS
 LRVSK:ASNYK-LDNK
 HESK:KEST'ETS
 LSA-MLS:MEL

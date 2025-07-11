@@ -13,7 +13,7 @@ ADV.RTL ;TWINS^VMS
         OCTOPUS OPTIMUS
 		  ~WTLANWOS
 
-      TIBERIUM SHINK.zh'nora.D-TCH
+      TIBERIUM SHINK.zh'nora.D-TCH->OR<
 		  RFT:SRT&XRK-XFS:KRF:PST
       FXS@FCH(SAY:VCT-K)~z&^c
         MERCURY

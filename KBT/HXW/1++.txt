@@ -1,14 +1,14 @@
-﻿"维今 海格米勒 吴潇涵 维今时代
+﻿"海格米勒 吴潇涵 维今时代
 wjcking@hotmail.com intellyer20010101
 	POP3: outlook.office365.com Port: 995 Encryption method: TLS
 	IMAP name: outlook.office365.com Port: 993 Encryption method: TLS
 	SMTP name: smtp.office365.com Port: 587 Encryption method: STARTTLS
-"维今 德奇兰地 维今时代
+"德奇兰地 维今时代
 wjcking@eclipso.email #intellyer20010101
 	POP3-Server: 	mail.eclipso.de (Port: 995, Verbindungssicherheit: SSL)
 	SMTP-Server: 	mail.eclipso.de (Port: 465, Verbindungssicherheit: SSL)
 
-"伊方德普
+维今 伊方德普
 EasyFound@126.com
 	1984328
 	imap.126.com	993
@@ -31,7 +31,7 @@ https://gitee.com/intellyer
 
 easyfound@126.com
 kingsure1984328
-http://www.somdom.com
+somdom.com
 	wjcking@hotmail.com
 	wjcking
 	wjcking1984328
