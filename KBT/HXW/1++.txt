@@ -16,7 +16,7 @@ EasyFound@126.com
 	"i.163.com "SEVR.NAMW
 	"pop3.126.com 110
 	"smtp.126.com 25
-	
+
 https://infini-cloud.net/en/
 	intellyer20010101
 	intellyer20010101
@@ -31,7 +31,7 @@ https://gitee.com/intellyer
 
 easyfound@126.com
 kingsure1984328
-somdom.com
+somdom
 	wjcking@hotmail.com
 	wjcking
 	wjcking1984328

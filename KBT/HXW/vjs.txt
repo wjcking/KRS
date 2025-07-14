@@ -1,14 +1,14 @@
-﻿windows 10 专业版密钥
-主机:BMM6T-GNV48-JF7TC-CTB9H-GCQGY
-苹果:QDNX3-XCPMJ-2V473-RF2FF-WFG6Y
+&~Route-http://192.168.1.1/
 
-我的qq：1803102610
+windows 10 Professnial
+XYAN:BMM6T-GNV48-JF7TC-CTB9H-GCQGY
+MAC:QDNX3-XCPMJ-2V473-RF2FF-WFG6Y
 
-路由器 楼上402
+&~'Route'+XYAN:402
 user
-uSy5H#f2
+@sniyake1984328
 
-路由器 储藏间
+&~'Route'+Ment
 Asniyakeui
 Asniyake1984328
 
@@ -17,24 +17,17 @@ Asniyake1984328
 	QQ SLNZ
 	6222020200092076062
 C,行
-  手机号
-  前缀ab+取款密码
+  Cellphone
+  Prefix:ab +^+nn's Password
 
 
-储藏间 苹果
-密码:空格
+&~'MAC'+Ment
+Space \\Keyboard
+
 Gitee
-	登录:easyfound@126.com
-	密码:kingsure1984328
-
-路由器
-http://192.168.1.1/
-路由器登录密码：zhaoayi888
-光纤宽带账号：31291306128
-密码：789789
-
-路由器psk密码：15831553876
+	easyfound@126.com
+	kingsure1984328
 
 nokia
-15631876595
-15831553876 //
+15631876595 \\\\zhaoayi888 光纤:31291306128 Password：789789
+15831553876 \\uSy5H#f2 #zh:c-1-7
