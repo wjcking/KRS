@@ -6,7 +6,7 @@
 |KST.KLS.KTRZK
 |ITY.INK^KLK.KBT
 MST
-MSD  
+MSD
   MDY
     RCK.RKB
     MTK^A
@@ -14,30 +14,30 @@ MSD
   MLS:KDKS
 MDS^Z.NGS
 
-"MEN:DWOSA:JELLYFISH 
-"GAIY^A.GERAIVTI-X 
+"MEN:DWOSA:JELLYFISH
+"GAIY^A.GERAIVTI-X
 HLX:PLS^D "RLS
 TENDER "МЯГКИЙ~RIKI^GST
   IR "EAR
     KONE^C$KAXO
     ANBRE^UM LA
-    DIS CRITE SPLIT 
+    DIS CRITE SPLIT
   LISA-EXTH
   KRS
-    TRANS.PARENT    
+    TRANS.PARENT
       KE^RI^RWU SDASHN
       CRUSTACEAN
       *Zq7 AORNZH
         Cystisoma
         Tsistisoma
-        znxs^q@c swoma      
+        znxs^q@c swoma
       Цисти сома
-      P*LAG BWLAS^NA "P*LBT      
+      P*LAG BWLAS^NA "P*LBT
       RAKOO BRAZNOYE*РАКОО БРАЗНОЕ
     TRAN#SIST->OR<
 RENDER
 
-"CHAFWO:SMAZR~SMOTHER "ETS
+"CHAFWO:SMAZR~SMOTHER "~+E
 LRVSK:ASNYK-LDNK
 HESK:KEST'ETS
 LSA-MLS:MEL
@@ -56,4 +56,3 @@ KST.NZD@TZH
 "ITLR\ITX\LST\LUK
 $TUK~HLX
 $LUK~LXR
-
