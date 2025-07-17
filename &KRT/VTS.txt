@@ -15,7 +15,7 @@ $ FKS
 
 ^	SKT:SKR
   VKR' AI'N#
-    
+
 O SZI:KRS~FSK
 
 % PST.KNT
@@ -25,13 +25,13 @@ O SZI:KRS~FSK
   Q :EO
     LOWK ;LUK
     LEN'K@ENG LEN'D@ENG
-    S~BL:ALEP AOT1EAR 
+    S~BL:ALEP AOT1EAR
     LDK "TLK~KLT
-    
-  "FLS.FSN  
+
+  "FLS.FSN
   F FV
     FN
-    
+
 ' |ZS,A
   ~, ANG ENG
 #	ZH ZHL H KTS 
@@ -43,7 +43,7 @@ O SZI:KRS~FSK
 ; KRI
   <
     ? CURRENT CLASS
-      ! AN^NON "UNKNOWN^KG    
+      ! AN^NON "UNKNOWN^KG
       O
       [
         ANG'KUN
@@ -54,4 +54,4 @@ O SZI:KRS~FSK
   >
 *	LXR LXA LXY
 _ NSK-TZH'WA
-" CRK //ZH'WSH
+" CRK //ЖZH'WSH

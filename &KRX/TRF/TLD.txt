@@ -9,32 +9,7 @@ SLDUN
 	NBR
 ALTUN^DUN
 
-ТЕХНОЛОГИИ 
-РАЗРАБОТЧИК ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ
-РОЗОВЫЙ ДЕВОЧКА КОМПЬЮТЕР QIAOJOY PAD
-ВЛАДИВОСТОКА
-УССУРИЙСК
-ПОДРОСТОК
-LUK:CHAFWO ЛЮБИТЬ 6B7
-RIVR
-  ОТЕЛЬ
-  ОБЩЕЖИТИЕ
-  
-  LENA:РЕКА.ЛЕ́НА
-    YAKUTSK ЯКУТСК //雅库茨克
-    ALDAN АЛДАН
-    //POKROVSK ПОКРОВСК РЕСПУБЛИКА САХА
-  РЕКА МАЛАЯ БИРА
-    KHABAROVSK ХАБАРОВСК 哈巴罗夫斯克 伯力
-LNAD
-
-MWHAN.MWT
-MENGOLIA
-	MELAKA~TANLANK
-	HIMALAYAX
-MELAYSHA
-
-THAILAND	
+THAILAND
 	MELAKA I_I_I U--C'3 SINGAPORE.PENGERANG MALAYSIA
 	NAKHON SAWAN THAILAND
 	VŨNGTÀU DA NANG PHU QUOC
@@ -44,18 +19,9 @@ THAILAND
 	INDORE SURAT MYSORE HDL
 
 	TIMOR-LESTE DILI
-	BRISBANE AUSTRALIA 
+	BRISBANE AUSTRALIA
 TASMANIA
 
 FTN.FXS.FSH^EN
 FLD^AIN
 BLS^R
-
-$特立的
-//英克希乐:卡乐丝克:卡的克丝
-//
-//卡安的
-//	及特~希体 塞得 萨得 '能量
-//	及折体~的来丝^艾
-//	没地牙-兰的 
-//克立下
