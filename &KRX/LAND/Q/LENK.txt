@@ -2,13 +2,6 @@
 
 IRS.brs
 
-ITS
-  NTS
-  ZTS:JTS^X:JXS
-
-  ~KST:KDE:TLD
-  ETS
-
 KVT.KST
 	KVN:KUV:KVT.KTN
 	"KT^V VST KTV
