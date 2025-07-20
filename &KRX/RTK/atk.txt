@@ -1,6 +1,6 @@
 ﻿ats
 
-//丁
+//T
 atk
 	tsk
 	kst^a
@@ -9,7 +9,7 @@ lnt.k.lnch_k//trike.inter
 aks
 
 tsk
-  tzk.kzt //中见 两边	
+  tzk.kzt //中见 两边
 tks
 
 //向节:克边:丁 铯东
@@ -20,7 +20,7 @@ ktz //tlz kls
 kts.kmtx
 tks//交汇
   //kl
-  lks_x  
+  lks_x
   lxs^m
 tzk
 
@@ -28,4 +28,4 @@ tzk
 //lnt.lck
 //sks
 //akn^ar
-//tkz:zez_a.tsl.tsh^k.dtx//角丁角
+tkz:\a/zez_a.tsl.tsh^k.dtx//>T'<
