@@ -16,7 +16,7 @@ IANK
     KNT.KST
   SRT
     "AZTK 
-    ATLANTIS
+    YATE:ATLANTIK
       ASNK
       MHWT Y TLD^S
         "YING^E.LISH
@@ -28,7 +28,7 @@ IANK
           ;MA MUW CIUM
         LAN'7YST:V3T1R
       MW HAN MWT
-    YATE:LANDIS
+    LANDIS
     
     SILWOK "KELWS
     
