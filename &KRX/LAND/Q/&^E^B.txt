@@ -10,7 +10,7 @@ SKR:NSK
 		LTZ:LKN:LKE
 	XKR
 
-	+~c,-VGS^E:WGS^I
+	+~c,-VGS^E:WGS^I "gandis
 
 	L~*+~R
 KRX
