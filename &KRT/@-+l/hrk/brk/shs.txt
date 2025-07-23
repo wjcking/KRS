@@ -1,6 +1,6 @@
 ﻿沙哈巴
 	和来可
-		佟水元 
+		佟水元 T+c~|<o
 			类人元:远水人
 		和余佟
 		和来克
@@ -34,19 +34,15 @@ ATN:ATB
 	SHL.LUN
 RTL
 
-BTLCK 
-BRS.HDR.RD
-  SHS:WGS:SHK 
-	//VBST
-	//艾米约兹^我纶 阿克今丝
-	//ARE^WO.GWZ:IGWZHIS
-	//SMAO:BIGE:AMID
-	ABDWLA
-		ABWLZ
-		PTGL
-	IBWDWLE
 
-	LVCH
-  LHR
-  LHK
-LKS
+SHS:WGS:SHK 
+//VBST
+//艾米约兹^我纶 阿克今丝
+//ARE^WO.GWZ:IGWZHIS
+//SMAO:BIGE:AMID
+ABDWLA
+  #ABWLZ
+  #PTGL
+IBWDWLE
+
+LVCH

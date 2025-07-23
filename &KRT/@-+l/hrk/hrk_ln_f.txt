@@ -34,10 +34,10 @@
 		"	HET:VIK RIKA HAT^O
 		"	BEDO RIGO
 		"RCL
-		"LUK.TUK.LSP
 		"CENKE ZENKE
 		"CZACK# "ČESKÁ CZECH
 		“C~ZENTEL~*D
+		"TUK.LUK.LSP
 		立地束:地热处~重罚空 盅种枯
 		公松怂永:冗人~动柔:开尔芮它
 	英柯立克 

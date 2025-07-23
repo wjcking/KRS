@@ -4,7 +4,7 @@ MST
 	TKS
 	LKT^AE:LKS
 	BSK:RSK:LSK
-	//FKT^AN:KFS
+	"FKT^AN:KFS
 
 	NFS:ISK
 	ZXS:JXS
@@ -12,6 +12,6 @@ MST
 		vls^w:itl
 	HZH
 
-	//FANG.TFS
-	//SKR.KL	KMR:LRK
+	F'G'TFS
+	SKR "KLM
 TSM
