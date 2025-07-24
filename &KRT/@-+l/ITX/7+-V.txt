@@ -6,11 +6,11 @@ KLT.LNT
   VTS
   KNT.FLD
   TLS
-    
+
   LVS
     LR.LSA.LNT
   TLS^C
-    
+
   LHR.KLH:ACHS.ECHS
   LXA.ASH
   LXA_E.VLS"DNS.SOVET*L
@@ -20,12 +20,12 @@ KLT.LNT
 
     "MRK.MRS ROMNIA
     "LATINA ESPANIOL
-  LVCH.LTN^A.UNX  
+  LVCH.LTN^A.UNX
 LCK.RD
 
 "SKLT.RL
-"FSK#FZK A SAYERIFT ALFLED FIRSIT 
-夫丝克.丝特维 
+"FSK#FZK A SAYERIFT ALFLED FIRSIT
+夫丝克.丝特维
 "应禾卡立柯.几什不位
 "英忑力次可.什体力行
 
@@ -47,10 +47,9 @@ LCK.RD
 	"#L^ZH YAMATO MINZOKU
 	やまとみんぞく&~<^^ |O't agon ~c+'
 	芝立.中立:源起
-	
+
   太安平应之
 	正约希中平  忑元井丹人
 	菱土东摇摆^原氏女	"1SH^FKS
 
-	忝元予涿 伯欧立克
 沉斯维
