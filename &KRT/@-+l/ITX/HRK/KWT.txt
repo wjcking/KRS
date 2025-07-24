@@ -1,6 +1,6 @@
 ﻿柜五破
-	吾去 去五 我致
-	之互 及处 互布处
+	吾去 去互 我致
+	及互 之处 互布处
 	IGERASH^A:IGLX
 	"いがらし や 
 	五十岚^及波处
@@ -27,7 +27,7 @@
 	<卡艾米切^比>
 元兀亏
 
-"PRIMATIVE.TOUGUE.RIVERBED
+"ORIZHEN.RIVERBED.TOUGUE-PRIMATIVE
 "任龙术远沦:龙林水克折
 和予波
 	"ZHAN PWSH:IHJ_LYX:JAPANESE KRLT~I ABRZ
