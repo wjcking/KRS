@@ -1,6 +1,6 @@
-﻿hzh:zws'bds:nfs:TEXT
+﻿hzh:zws'bds:
 -
-
+nfs:TEXT
 ~
 INTELLY
 ADVENT
