@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0200267"
-     inkscape:cx="561.25984"
-     inkscape:cy="396.55826"
+     inkscape:cx="276.95353"
+     inkscape:cy="209.30825"
      inkscape:window-width="1849"
      inkscape:window-height="1055"
      inkscape:window-x="64"
@@ -276,7 +276,7 @@
          sodipodi:role="line"
          x="15.140916"
          y="60.931526"
-         id="tspan14">VKT:&amp;^M</tspan><tspan
+         id="tspan14">VKT:&amp;^W</tspan><tspan
          style="line-height:1.25;fill:#000000;stroke:#000000;stroke-width:0.238681;stroke-dasharray:none"
          y="65.683784"
          x="15.140916"
@@ -649,7 +649,7 @@
        transform="scale(1.1450284,0.87334078)"><tspan
          x="126.23097"
          y="254.68437"
-         id="tspan1">+</tspan></text><rect
+         id="tspan2">+</tspan></text><rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.615;stroke-dasharray:none;stroke-opacity:1"
        id="rect5"
        width="38.16959"
@@ -731,7 +731,7 @@
        id="text10"
        style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;word-spacing:0px;white-space:pre;shape-inside:url(#rect10);display:inline" /><g
        id="g1"
-       transform="rotate(180,135.05288,89.176413)"><path
+       transform="matrix(1,0,0,-1,-2.11665,178.35283)"><path
          id="path3"
          style="fill:#000000;fill-opacity:1;stroke:#00ff00;stroke-width:0"
          d="m 130.71163,81.461525 h 2.42786 v 14.900614 h -2.42786 z" /><path
