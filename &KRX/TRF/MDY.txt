@@ -7,8 +7,7 @@ ADV.RTL ;TWINS^VMS
 	FLC.FSH^X
 		FBN^D^
 		  'FNS:1LAN
-      'O^+-,'OCTAGON
-      'AΛRAN [l~1-H-LV'I]LWN_N1ILC
+      'O^+-,'
       WEBSTER:VAIBESTR:O*H'
         УТКОНОС PLATYPUS W
         OCTOPUS OPTIMUS
@@ -25,7 +24,8 @@ ADV.RTL ;TWINS^VMS
             H'2'Q'N^SDM;
             SHADOW@FUNNEL'
           AS7^I:LS7
-        SILVER:SILVA~C
+        'AΛRAN [l~1-H-LV'I]LWN_N1ILC
+        SILVER~SILVA~C
 		  R*K(DRINK NO CAN)
 	  FLD
 	FLX
