@@ -4,6 +4,8 @@ Z^7
 &c
 q
 
-|>l/@/u--"i.*i-v^i
+/@/u--"i.*i-v^i
+
+"void _Cdecl lineto(int x, int y);
 
 f
