@@ -37,6 +37,7 @@ PAT "RDF
 //DPT^A:PATIKO:RMW
 BMD:EOT.DOT
 -LINE
+  ~CABLE:RJ45
   USB
     //PS2 
     //LPT
