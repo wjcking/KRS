@@ -27,13 +27,9 @@ kct //~vzs
   \***\
   WZN^THN:E
     KDE:MZT.EXTH
-    WZN.CHN
-      KZR 《邋遢大王奇遇记》
-      U yghur--
-    WZN.CHWN
+    
   ^1,nGlish-chw5
-
-  [ZXS~T.NFS:EXTH]
+  "NFT.HlXW
   xiaoteji shotking switch wxh
   PID:KD DERIVATIVE GAIN 0.05 F-KANZD //500.faiw.five.year
   YELLOW.color.rks-nfs.zxs
