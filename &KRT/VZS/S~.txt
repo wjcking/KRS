@@ -32,7 +32,13 @@ O~F.S.T
             //VSD:BST:SLD:SRD
             //B:LSD^CL.KCT
             //BST^D
-          
+            FLS-VRSK
+            FSN
+              FSR:ISK:ITL
+              KSR-IST~LST
+              TRF:FST
+              TLD:KLD
+            RNS
             //KDE.KAST
           dsr
         N~D

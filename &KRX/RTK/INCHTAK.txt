@@ -3,9 +3,11 @@
 INDASTDRILL
 ETHERNET
 INTRA -PSH
-  
   CRS 
-  U--KRS "MACHINE STYLE ^TZH.EOU
-
+  KRS "MACHINE STYLE^TZH.EO--U
+   -----------
+  /Z\>[{C}]</U\
+  \N/>[{D}]<\K/
+   -----------
   AUTOMATIC  
 TECH
