@@ -10,10 +10,10 @@ u'pr
 
 LZHG
 C'R F
-  z's bd1 l,rzh n's,ios
+  z's bd1 l',rzh c's,ios
   "#z~@1+,r#!
   
-  nv>~,'-+)Д
+  nv>~,'-+)Дxk
   <f'^nn z* 
   @+fc~@_A_n
   
