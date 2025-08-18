@@ -9,9 +9,11 @@
 "印何立柯克:英柯力克
 "英忑力次克
 "艾二弗来的:贝欧里丝克
-DSR.BSK^NTS:DSN
+
+FRT
+     
 >]
-柯力克        
+DSR.BSK^NTS:DSN 柯力克        
 力丝克:芮丝克:白丝克
 克芮儿:克芮特
 FLT:SNK^NA "FLK.SRK^RA

@@ -1,20 +1,16 @@
 ﻿ITLR
 
 KLD
-	LNK^TH
-  KLN~PLS
-  KRT^+ "KERIKET ADD
-    ISK.BRS  "MSK'
-    RDF~LSK  "M'AO DIFAI
+  LSK^C
+  KRT^+ "CREATE ADD
+    ISK  "MFS
+    RDF  "M'DFY
     MLK
   KLT
-
-  BT#SH
-    BDS@
-  BDS^R
-
-  KTN.RSK^T
-    "DLT
-    "RLS
-  LCK
+  
+  BSK^RSK^T
+  
+  KTN.TSH
+  "DELETE
+  "RELEASE
 TRK
