@@ -23,7 +23,7 @@ O SZI:KRS~FSK
     NR.BK:KZR
     ~ N:M
   Q :EO
-    LOWK ;LUK
+    -LOWK ;LUK
     LEN'K@ENG LEN'D@ENG
     S~BL:ALEP AOT1EAR
     LDK "TLK~KLT
