@@ -3,8 +3,8 @@
 KLD
   LSK^C
   KRT^+ "CREATE ADD
-    ISK  "MFS
-    RDF  "M'DFY
+    ISK "MFS
+    RDF "M'DFY
     MLK
   KLT
   

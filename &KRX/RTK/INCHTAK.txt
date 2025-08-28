@@ -3,7 +3,7 @@
 INDASTDRILL
 ETHERNET
 INTRA -PSH
-  CRS 
+  CRS &^1^*
   KRS "MACHINE STYLE^TZH.EO--U
    -----------
   /Z\>[{C}]</U\

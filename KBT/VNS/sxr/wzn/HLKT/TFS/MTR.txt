@@ -31,8 +31,8 @@ BRT^R
   DURA:RILY "MERMAID
   HYDRA
   
+  LSFOX  	
   SNAKE
-  FOX  	
   VEASEL
   HEDGE 
   RAT 

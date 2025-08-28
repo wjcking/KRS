@@ -8,8 +8,7 @@ PE-PVC "通风:通风球 管  冬瓜散热器
 
 &^1^*$VLZ:KRT
 "RKB~LWZKE:NARROW~-WLIGHT:URISDK
-采,球:导管 筒
-排烟
+采,球:导管 筒 烟
 
 7-'Cl
 储箱 排 管 防 袋 
