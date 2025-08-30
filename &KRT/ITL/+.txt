@@ -1,4 +1,4 @@
-ITL:KRT~WZS
+itl~wzs
 
 ~7--&-c@f
 clk^mch~q-1
@@ -6,10 +6,10 @@ clk^mch~q-1
 l-*-u'^^
 
 c--n
-cnx 'MTU+&zb-nfs-l*t3
+mtc 'unx+&zb-nfs-l*t3
 
 u--n
-=w-* "WFD-2-l
+=w-* "wfd-2-l
 
 c++
-cln -DWF-~-1
+cln -dwf-~-1
