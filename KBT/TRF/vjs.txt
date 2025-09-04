@@ -14,3 +14,36 @@
 中之希
 系又之 "信 值 誉
 兴予钟
+Mode 
+  Clipboard, Selection, FindBuffer 
+  QClipboard::Mode mode = Clipboard
+options.Type == FindType.Text && options.MatchCase)
+    if (options.FindBuffer == null || options.FindBuffer.Length == 0)
+        throw new ArgumentException("FindBuffer can not be null when Type: Text and MatchCase: false");
+    buffer1 = options.FindBuffer;
+options.Type == FindType.Text && !options.MatchCase)
+
+    if (options.FindBufferLowerCase == null || options.FindBufferLowerCase.Length == 0)
+        throw new ArgumentException("FindBufferLowerCase can not be null when Type is Text and MatchCase is true");
+    if (options.FindBufferUpperCase == null || options.FindBufferUpperCase.Length == 0)
+        throw new ArgumentException("FindBufferUpperCase can not be null when Type is Text and MatchCase is true");
+    if (options.FindBufferLowerCase.Length != options.FindBufferUpperCase.Length)
+        throw new ArgumentException("FindBufferUpperCase and FindBufferUpperCase must have the same size when Type is Text and MatchCase is true");
+    buffer1 = options.FindBufferLowerCase;
+    buffer2 = options.FindBufferUpperCase;
+options.Type == FindType.Hex
+    if (options.Hex == null || options.Hex.Length == 0)
+        throw new ArgumentException("Hex can not be n'ull when Type is Hex");
+    buffer1 = options.Hex;
+    
+
+[cloudsdktool InternetShortcut]
+URL=https://cloud.google.com/docs/authentication/
+URL=https://cloud.google.com/backup-disaster-recovery/docs/reference/rest
+REST Resource: v1.projects.locations
+/*/
+do
+{
+^c'-
+}
+\e\
