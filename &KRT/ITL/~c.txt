@@ -1,5 +1,5 @@
 v^~:v~t
-l`sh λertical λrchive
+l`sh λertcal λrchive
 static void Main(string[] args)
 {
     if (args.Length == 0 || args.Length > 2 ||
@@ -39,11 +39,17 @@ static void Main(string[] args)
         }
     }
 }
-++ "inline variant:union:C++17
--/++/-
--/++/-
-жж "unsafe fixed String.Format 
-"h'bit
 
-public virtual string? ToString();
-public static implicit operator ReadOnlySpan<T>(T[]? array);
+λert1cal-<~er en nr
+  ++ "inline variant:union:C++17
+  -/++/-
+  -/++/-
+  жж "unsafe fixed String.Format 
+  "h'bit
+  
+  fяs
+  copilet
+    public virtual string? ToString();
+    public static implicit operator ReadOnlySpan<T>(T[]? array);
+  unio u慢n ялm5w~'+x
+xrc-<
