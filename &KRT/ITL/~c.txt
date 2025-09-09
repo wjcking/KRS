@@ -52,4 +52,28 @@ static void Main(string[] args)
     public virtual string? ToString();
     public static implicit operator ReadOnlySpan<T>(T[]? array);
   unio u慢n ялm5w~'+x
-xrc-<
+xrc-<vertigo
+        WuXiaohanVizn Time
+        
+        #0 b0 a b0 b b0 c
+        
+        #10 b1 a #20 b1 b #30 b1 c 
+        #40 b0 a #50 b0 b #60 b0 c
+       log
+mega (since C++11)	std::ratio<1000000, 1> (106)
+  giga (since C++11)	std::ratio<1000000000, 1>          (109)
+  tera (since C++11)	std::ratio<1000000000000, 1>       (1012)
+  peta (since C++11)	std::ratio<1000000000000000, 1>    (1015)
+  exa (since C++11)	std::ratio<1000000000000000000, 1> (1018)
+  zetta (since C++11)	std::ratio<1000000000000000000000, 1>          (1021)[2]
+  yotta (since C++11)	std::ratio<1000000000000000000000000, 1>       (1024)[2]
+  
+ Cache write-back Granule. The maximum size of memory that can be overwritten as a result 
+of the eviction of a cache entry that has had a memory location in it modified, encoded as 
+Log2 of the number of words. A value of 0b0000 indicates that the CTR does not provide 
+Cache write-back Granule information and either:
+ • The architectural maximum of 512 words (2Kbytes) must be assumed.
+ • The Cache write-back Granule can be determined from maximum cache line size 
+encoded in the Cache Size ID Registers.
+ Values greater than 0b1001 are reserved
+ 
