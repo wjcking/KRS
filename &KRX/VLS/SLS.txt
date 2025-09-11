@@ -15,10 +15,10 @@ KRLS
 		
 		UNA^SH:ATV
       GTS'WN:GWON.TASH.XN
-      -QZS:ITYS:TXQ.JSN^NA "МОЛОДЕЦNYS
-      ENKS.LCK:TCH^OR.JAKE.TERI "Troll.Jacketry
+      +#Q:ITYS:TXQ.JSN^NA " "S-Я^ea Jacketry МОЛОДЕЦNYS
+      ENKS.LCK:TCH^OR.JAKE.TERI
 		UNZ
 		
-		<LYX:TXV:KMTX>
+		LYX:TXV:KMTX<>
 	ULXS
 KLDR
