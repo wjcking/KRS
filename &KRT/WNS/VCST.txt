@@ -1,5 +1,5 @@
 $i
 MINQ
-  WASP(ε = ε₀ * εr)
-  
+  WASP(ε = ε₀ * εr)Common Gatewayphyic Interfisc
+  WASD(εr = ε * ε₀)
 WISP

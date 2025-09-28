@@ -12,7 +12,7 @@ Ken03:CZETAN_#,
 void **
 APPSTATE:ACTIVATED
 
-:memory
+:MEMORY
   struct Telegram;
   struct Waiket;
   static

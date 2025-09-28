@@ -90,7 +90,7 @@ module astll_module
   mod_&as instance1(.out1 (out1), .out2 (out2), .in1 (a), .in2 (b), .in3 (c), .in4 (d));
 D'x,Q
 ARSK
->
+
   <uode>< class="token comment">// Module called "dff" has 3 inputs and 1 output port</>
    < class="token keyword">module</> < class="token function">dff</>< class="token punctuation">(</> < class="token keyword">input</>       d< class="token punctuation">,</>
                < class="token keyword">input</>       clk< class="token punctuation">,</>
@@ -106,7 +106,7 @@ ARSK
        < class="token keyword">end</>
    
    < class="token keyword">endmodule<>&/KRT/@-+l
-  <uode
+  uode "MCUs <swift:tree-> a&s*'ket.ro1l&'ck
 e/o
 driver/kdt:wxh
 Getdesign
