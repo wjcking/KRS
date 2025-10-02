@@ -1,8 +1,7 @@
-$I
-MINQ:ECMA
-  WASP(ε = ε₀ * εr)
-    resphWnd Easypark Parkster
-    Common Gatewayphyic Interfizc
-    WPARAM wParam, LPARAM
-  WASD(εr = ε * ε₀)
-WASP
+COMPAD.KANQ:CANPAID
+MINQ
+  :ECMA((εr = ε * ε₀)ε = ε₀ * εr)
+  resphWnd Easypark Parkster
+  Common Gatewayphyic Interfizc
+  WPARAM wParam, LPARAM
+WASD:WASP
