@@ -1,5 +1,8 @@
-$i
-MINQ
-  WASP(ε = ε₀ * εr)Common Gatewayphyic Interfisc
+$I
+MINQ:ECMA
+  WASP(ε = ε₀ * εr)
+    resphWnd Easypark Parkster
+    Common Gatewayphyic Interfizc
+    WPARAM wParam, LPARAM
   WASD(εr = ε * ε₀)
-WISP
+WASP
