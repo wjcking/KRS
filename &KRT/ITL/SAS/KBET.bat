@@ -14,5 +14,7 @@ echo %cdt%
 ::for /l %%i in (1,1,11) do (
   ::if %spk%== "1" exit
   ::folder3
-  start SAS.bat
+  set folder=%cd%
+  echo %folder%
+  start sas.bat
 ::) 

@@ -1,10 +1,10 @@
 @echo off
 cls
 
-SAS
-  start SAS.exe
+sas
+  start sas.exe
 
   cd
  ::set /a count += 1
-  start SAS.exe
-goto SAS
+  start sas.exe
+goto sas
