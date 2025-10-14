@@ -1,7 +1,7 @@
-.KANQ:CANPAID
+COMPAQ.KANQ:CANPAID:K'PA'&
 MINQ
   :ECMA((εr = ε * ε₀)ε = ε₀ * εr)
   resphWnd Easypark Parkster
-  Common Gatewayphyic Interfizc
+  Common gatewayphyic Interfizc
   WPARAM wParam, LPARAM
 WASD:WASP

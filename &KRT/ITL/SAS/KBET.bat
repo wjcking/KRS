@@ -15,6 +15,6 @@ echo %cdt%
   ::if %spk%== "1" exit
   ::folder3
   set folder=%cd%
-  echo %folder%
   start sas.bat
+  echo %folder%
 ::) 
