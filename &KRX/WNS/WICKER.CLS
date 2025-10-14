@@ -3,8 +3,14 @@ MINQ
   nerHT= Power dissipated in watts (W)
        =  resistance in °C/WThermal
        = MASS of the PCB AreaA
-  MISK CMS
-  A= voltage (V)
-  += current (A)
-  Tonq,= resistance (Ω)
+  MISK CMS Яuby  
+  MATCH:Condition.BreakCinko;
+    CASE:I = LOVE
+    CASE:T = WJCKING
+    CASE:S = COLOUR Unit
+  MARTH
+  A= VOLTAGE (V)
+  += CURRENT (A)
+  TONQ,= RESISTANCE (Ω)
+  VSAM:AKCAIS M'SED
 ast^w

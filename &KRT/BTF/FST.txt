@@ -24,7 +24,8 @@ izT~i.l
     vsr~vfs
 
   )
-  [fsn]
+  
+  (wsn-fsn)
   tfs
     "ksr~kst-kts
     fsr
