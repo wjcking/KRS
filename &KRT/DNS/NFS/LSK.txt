@@ -1,20 +1,18 @@
-﻿TLK
+﻿KLT+ITLS
 NDF
 	KQT
-  +ITLR
-  +LCK^ЯKC
-  +ZXS
+  
+  LCK^ЯKC
+  ZXS
   "LSK:KQT
   "KBT^S3
   "MFS
-	KPT ;1CL+'^+
+	KPT ;1CL'^
 NFT
 
 KQT
-  TLS
-    +RCH^T "RICHVW
-    +~FSH^LN "RIFRAISH
-    +ZCH^N "RISECH
-    +RTS "RITERN
-  +BLS
+  RCH^T "RICHVW
+  ~FSH^LN "RIFRAISH
+  ZCH^N "RISECH
+  RTS "RITERN  
 HZK

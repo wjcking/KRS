@@ -109,4 +109,4 @@ ARSK
   uode "MCUs <swift:tree-> a&s*'ket.ro1l&'ck
 e/o
 driver/kdt:wxh
-Getdesign
+GetdesignSimulator.Resx
