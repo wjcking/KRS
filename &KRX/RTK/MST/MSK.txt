@@ -1,11 +1,40 @@
-KTS:ZTS.NTS
 
+konochrstd::ratio_multiply CQЯ,Gnd nts windows nt "&^^-'K B&AO
+  TERA (C++11)	std::ratio<1000000000000, 1>       (1012)
+  mega (C++11)	std::ratio<1000000, 1>  )106( ) nano (quecto
+  
+    peta (C++11)	std::ratio<1000000000000000, 1>    (1015)
+    "giga (C++11)	std::ratio<1000000000, 1>          (109)
+    "exa (C++11)	std::ratio<1000000000000000000, 1> (1018)
+    zetta (C++11)	std::ratio<1000000000000000000000, 1>          (1021)[2]
+    yotta (C++11)	std::ratio<1000000000000000000000000, 1>       (1024)[2]
+    zepto (C++11)	std::ratio<1, 1000000000000000000000>          (10-21)[1]
+  quecto (C++26)	std::ratio<1, 1000000000000000000000000000000> (10-30)[1]
+  
+  ronto (C++26)	std::ratio<1, 1000000000000000000000000000>    (10-27)[1]
+    yocto (C++11)	std::ratio<1, 1000000000000000000000000>       (10-24)[1]
+    atto (C++11)	std::ratio<1, 1000000000000000000> (10-18)
+    femto (C++11)	std::ratio<1, 1000000000000000>    (10-15)
+    pico (C++11)	std::ratio<1, 1000000000000>       (10-12)
+    micro (C++11)	std::ratio<1, 1000000> (10-6)
+    milli (C++11)	std::ratio<1, 1000>    (10-3)
+    centi (C++11)	std::ratio<1, 100>     (10-2)
+    deci (C++11)	std::ratio<1, 10>      (10-1)
+    deca (C++11)	std::ratio<10, 1>      (101)
+    hecto (C++11)	std::ratio<100, 1>     (102)
+    kilo (C++11)	std::ratio<1000, 1>    (103)
+    
+  ronna (C++26)	std::ratio<1000000000000000000000000000, 1>    (1027)[2]
+  quetta (C++26)	std::ratio<1000000000000000000000000000000, 1> (1030)[2]
+vrsk.vcc
+axes(A,n)copy(A)deepcopy(A)
 KST
 	WMS
 	MWZ_M^J
 TZK
-
-KNK
+template< class T >
+const T* addressof( const T&& ) = delete;
+KNT
 	KSK
 	KHT.MW^S
 	THK.MHW^K
@@ -14,10 +43,18 @@ KNK
 KHK
 
 KMT:MSK
-	KLS
-		KSL:KTL
-		KLT
-		KMTX
-	MLS^K
-	MSL^T
+  KLS
+    KSL:KTL
+    KLT
+    KMTX
+  MLS^K
+  MSL^T
 MTS~MDS:MAKS
+ // integer scale conversion with no precision loss: no cast
+    std::cout << std::chrono::milliseconds(1s).count() << " milliseconds\n"
+              << std::chrono::microseconds(1s).count() << " microseconds\n"
+              << std::chrono::nanoseconds(1s).count() << " nanoseconds\n";
+ 
+    // integer scale conversion with precision loss: requires a cast
+    std::cout << std::chrono::duration_cast<std::::minutes>(1s).count()
+              << " minutes\n";

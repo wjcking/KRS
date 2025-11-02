@@ -1,0 +1,8 @@
+COMPAQ.KANQ:K'PA'&SOFTAK:YIN*K'A:WZHNK
+
+MINQ
+  COMPAT:ECMA((εr = ε * ε₀)ε = ε₀ * εr)
+  resphWnd Easypark Parkster
+  Common gatewayphyic Interfizc
+  WPARAM wParam, LPARAM
+WASD:WASP

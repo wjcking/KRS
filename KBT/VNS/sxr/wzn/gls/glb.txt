@@ -6,7 +6,7 @@ Loopback:Electric->Collision->Electronic-Semi
 Liquid-Pxcel:
 Car:Renliy.Steamoil~Mechanic-Semi-Digts.SoundSpeaker.Conduct
 
-函数.人类创造范围：必备 基本 生活 工作 娱乐 防备抵御 //Not standout
+人类创造范围：必备 基本 生活 工作 娱乐 防备抵御 //Not standout
 人造人：
   .女铝口人内娲 彩欧时 三晶角体结界 传送 端口?≈江山形成
   知道 ！= 死亡 眼睛 传送 应该是最动态的部位 却最软弱
@@ -23,7 +23,7 @@ Car:Renliy.Steamoil~Mechanic-Semi-Digts.SoundSpeaker.Conduct
 
   技艺技术引导性 
   发现实践性： 马镫 传送 从哪儿到哪儿
-
+人
 地理：索来德形成出来 一个地方有的其他地方没有
       /^M&m/ 总体外形物质形状相同 但是内容不一样都有 地球区域技艺技术不同 
                 
@@ -44,7 +44,6 @@ Renlay Baeutify  Waterize Waterilize WaterBlance WaterLever Waterie Whaterly But
 为：本 准 水 美 人 妲七层：内|外
 形态体：
 兀^术菱Lz之 Lack.hard
-			
 					
 连形体
 半形态体：
