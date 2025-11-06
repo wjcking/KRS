@@ -1,11 +1,12 @@
 KSN
-
+<
+<~+
 FNT^FNS
 	FSN:FNS
 	FLC.LAN:ETS:FXS^LNF
 		&FLX.LIN
 	FLZ.LEN
-<FST>
+  FST
 FTN
 
 TSN
